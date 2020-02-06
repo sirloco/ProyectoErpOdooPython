@@ -1,4 +1,3 @@
-
 def compras():
     pass
 
@@ -23,26 +22,26 @@ def almacen():
     pass
 
 
-
 # //////////////////////////////////////////////////////////////////////////////////////
 # //////////////////////////////////// Login ///////////////////////////////////////////
-# /////////////////////////////////////////////////////////////////////////////////////
+# //////////////////////////////////////////////////////////////////////////////////////
+opciones = {"1": compras, "2": ventas, "3": produccion, "4": finanzas, "5": clientes,
+            "6": almacen}
+
 print("## LOGIN ##")
 nombre = input("Usuario: ").strip()
 contrasinal = input("Contraseña: ").strip()
-
+nivelAcceso = -1
 
 archivo = open("Usuarios.txt", "r")
-usuario = archivo.readline()
-login = usuario.split(" ")
 
-print(login[0])
-print(login[1])
-# //////////////////////////////////////////////////////////////////////////////////////
-# //////////////////////////////////// MENU ///////////////////////////////////////////
-# /////////////////////////////////////////////////////////////////////////////////////
-opciones = {"1": compras, "2": ventas, "3": produccion, "4": finanzas, "5": clientes,
-            "6": almacen}
+for linea in archivo.readlines():
+    login = linea.split(" ")
+
+    if login[0] == nombre and login[1].split("\n")[0] == contrasinal:
+        nivelAcceso = login[2]
+
+print(nivelAcceso)
 
 opcion = "0"
 while opcion != "7":
@@ -56,5 +55,5 @@ while opcion != "7":
 
     opcion = input("opcion: ")[0]
 
-    if opcion != "9":
+    if opcion != "7":
         opciones.get(opcion)()
