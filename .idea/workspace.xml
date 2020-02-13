@@ -4,7 +4,7 @@
     <list default="true" id="04705111-361e-4ceb-8d17-11a96e752a67" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/ProyectoErpOdooPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProyectoErpOdooPython.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Menu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Usuarios.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Usuarios.txt" afterDir="false" />
     </list>
@@ -24,25 +24,31 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XRgTquX6HneMUnSPrOPjCE5PJ5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.Menu">
     <configuration name="Menu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProyectoErpOdooPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\8fdam01\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -148,39 +154,70 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1080" y="251" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581272937721">
-      <screen x="-1080" y="-155" width="864" height="1496" />
+    <state x="551" y="237" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581620223651">
+      <screen x="45" y="23" width="2003" height="1129" />
     </state>
     <state x="-1080" y="251" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.-155.864.1496/0.0.1536.824@-1080.-155.864.1496" timestamp="1581272937721" />
-    <state x="377" y="278" key="FileChooserDialogImpl" timestamp="1581273106507">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="550" y="237" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/44.23.2004.1129@44.23.2004.1129" timestamp="1581619575516" />
+    <state x="551" y="237" key="#com.intellij.execution.impl.EditConfigurationsDialog/45.23.2003.1129@45.23.2003.1129" timestamp="1581620223651" />
+    <state x="596" y="524" key="FileChooserDialogImpl" timestamp="1581619831259">
+      <screen x="45" y="23" width="2003" height="1129" />
     </state>
     <state x="-868" y="350" key="FileChooserDialogImpl/-1080.-155.864.1496/0.0.1536.824@-1080.-155.864.1496" timestamp="1581273031588" />
     <state x="377" y="278" key="FileChooserDialogImpl/-1080.-155.864.1496/0.0.1536.824@0.0.1536.824" timestamp="1581273106507" />
-    <state width="807" height="1066" key="GridCell.Tab.0.bottom" timestamp="1581273209546">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="595" y="524" key="FileChooserDialogImpl/44.23.2004.1129@44.23.2004.1129" timestamp="1581619487172" />
+    <state x="596" y="524" key="FileChooserDialogImpl/45.23.2003.1129@45.23.2003.1129" timestamp="1581619831259" />
+    <state width="1947" height="386" key="GridCell.Tab.0.bottom" timestamp="1581623791093">
+      <screen x="80" y="23" width="1968" height="1129" />
     </state>
     <state width="843" height="432" key="GridCell.Tab.0.bottom/-1080.-155.864.1496/0.0.1536.824@-1080.-155.864.1496" timestamp="1581273044379" />
     <state width="807" height="1066" key="GridCell.Tab.0.bottom/-1080.-155.864.1496/0.0.1536.824@0.0.1536.824" timestamp="1581273209546" />
-    <state width="807" height="1066" key="GridCell.Tab.0.center" timestamp="1581273209546">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1947" height="386" key="GridCell.Tab.0.bottom/80.23.1968.1129@80.23.1968.1129" timestamp="1581623791093" />
+    <state width="1947" height="386" key="GridCell.Tab.0.center" timestamp="1581623791092">
+      <screen x="80" y="23" width="1968" height="1129" />
     </state>
     <state width="843" height="432" key="GridCell.Tab.0.center/-1080.-155.864.1496/0.0.1536.824@-1080.-155.864.1496" timestamp="1581273044379" />
     <state width="807" height="1066" key="GridCell.Tab.0.center/-1080.-155.864.1496/0.0.1536.824@0.0.1536.824" timestamp="1581273209546" />
-    <state width="807" height="1066" key="GridCell.Tab.0.left" timestamp="1581273209546">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1947" height="386" key="GridCell.Tab.0.center/80.23.1968.1129@80.23.1968.1129" timestamp="1581623791092" />
+    <state width="1947" height="386" key="GridCell.Tab.0.left" timestamp="1581623791092">
+      <screen x="80" y="23" width="1968" height="1129" />
     </state>
     <state width="843" height="432" key="GridCell.Tab.0.left/-1080.-155.864.1496/0.0.1536.824@-1080.-155.864.1496" timestamp="1581273044379" />
     <state width="807" height="1066" key="GridCell.Tab.0.left/-1080.-155.864.1496/0.0.1536.824@0.0.1536.824" timestamp="1581273209546" />
-    <state width="807" height="1066" key="GridCell.Tab.0.right" timestamp="1581273209546">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1947" height="386" key="GridCell.Tab.0.left/80.23.1968.1129@80.23.1968.1129" timestamp="1581623791092" />
+    <state width="1947" height="386" key="GridCell.Tab.0.right" timestamp="1581623791093">
+      <screen x="80" y="23" width="1968" height="1129" />
     </state>
     <state width="843" height="432" key="GridCell.Tab.0.right/-1080.-155.864.1496/0.0.1536.824@-1080.-155.864.1496" timestamp="1581273044379" />
     <state width="807" height="1066" key="GridCell.Tab.0.right/-1080.-155.864.1496/0.0.1536.824@0.0.1536.824" timestamp="1581273209546" />
-    <state x="0" y="115" key="SettingsEditor" timestamp="1581273113284">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1947" height="386" key="GridCell.Tab.0.right/80.23.1968.1129@80.23.1968.1129" timestamp="1581623791093" />
+    <state width="1947" height="386" key="GridCell.Tab.1.bottom" timestamp="1581623791094">
+      <screen x="80" y="23" width="1968" height="1129" />
+    </state>
+    <state width="1947" height="386" key="GridCell.Tab.1.bottom/80.23.1968.1129@80.23.1968.1129" timestamp="1581623791094" />
+    <state width="1947" height="386" key="GridCell.Tab.1.center" timestamp="1581623791093">
+      <screen x="80" y="23" width="1968" height="1129" />
+    </state>
+    <state width="1947" height="386" key="GridCell.Tab.1.center/80.23.1968.1129@80.23.1968.1129" timestamp="1581623791093" />
+    <state width="1947" height="386" key="GridCell.Tab.1.left" timestamp="1581623791093">
+      <screen x="80" y="23" width="1968" height="1129" />
+    </state>
+    <state width="1947" height="386" key="GridCell.Tab.1.left/80.23.1968.1129@80.23.1968.1129" timestamp="1581623791093" />
+    <state width="1947" height="386" key="GridCell.Tab.1.right" timestamp="1581623791093">
+      <screen x="80" y="23" width="1968" height="1129" />
+    </state>
+    <state width="1947" height="386" key="GridCell.Tab.1.right/80.23.1968.1129@80.23.1968.1129" timestamp="1581623791093" />
+    <state x="456" y="228" key="SettingsEditor" timestamp="1581619904269">
+      <screen x="45" y="23" width="2003" height="1129" />
     </state>
     <state x="-1080" y="238" key="SettingsEditor/-1080.-155.864.1496/0.0.1536.824@-1080.-155.864.1496" timestamp="1581273037541" />
     <state x="0" y="115" key="SettingsEditor/-1080.-155.864.1496/0.0.1536.824@0.0.1536.824" timestamp="1581273113284" />
+    <state x="455" y="228" key="SettingsEditor/44.23.2004.1129@44.23.2004.1129" timestamp="1581619562991" />
+    <state x="456" y="228" key="SettingsEditor/45.23.2003.1129@45.23.2003.1129" timestamp="1581619904269" />
+    <state x="724" y="419" key="com.intellij.ide.util.TipDialog" timestamp="1581620183006">
+      <screen x="45" y="23" width="2003" height="1129" />
+    </state>
+    <state x="723" y="419" key="com.intellij.ide.util.TipDialog/44.23.2004.1129@44.23.2004.1129" timestamp="1581618977697" />
+    <state x="724" y="419" key="com.intellij.ide.util.TipDialog/45.23.2003.1129@45.23.2003.1129" timestamp="1581620183006" />
   </component>
 </project>

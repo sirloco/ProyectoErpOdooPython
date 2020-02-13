@@ -1,5 +1,55 @@
+import Clase
+import Funcion
+
+# lista de proveedores
+proveedores = [Clase.Proveedor]
+productos = [Clase.Producto]
+
+def nuevaOrden():
+    errores = False
+
+    if len(proveedores) < 1: errores = "Deben existir al menos un proveedor"
+
+    if not errores:
+        proveedorElegido = Funcion.muestraProveedor()
+        producto = input("Nombre: ").strip()#todo aqui hay que poner una clase producto que esta en almacen
+        cantidad = input("cantidad: ").strip()
+
+
+        print("nueva orden de compra")
+    else:
+        print(errores)
+
+
+def editarOrden():
+    print("editar orden de compra")
+
+
+def anularOrden():
+    print("anular orden de compra")
+
+
+def mostrarOrdenes():
+    print("mostrar ordenes de compra")
+
+fcompras = {"1": nuevaOrden, "2": editarOrden, "3": anularOrden, "4": Funcion.creaProveeodor, "5": mostrarOrdenes}
+
+
 def compras():
-    print("Compras")
+    opcion = 0
+    while opcion != "6":
+
+        print("1. Crear orden de compra\n"
+              "2. Editar orden de compra\n"
+              "3. Anular orden de compra\n"
+              "4. Crear proveedor\n"
+              "5. Mostrar órdenes de venta\n"
+              "6. Atras")
+
+        opcion = input("opcion: ")[0]
+
+        if opcion != "6":
+            fcompras.get(opcion)()
 
 
 def ventas():
@@ -18,9 +68,30 @@ def clientes():
     print("Clientes")
 
 
-def almacen():
-    print("Almacen")
+def eliminaProducto():
+    print("Elimina producto")
 
+def muestraProducto():
+    print("muestra producto")
+
+
+falmacen = {"1": Funcion.nuevoProducto, "2": eliminaProducto, "3": muestraProducto}
+
+def almacen():
+
+    opcion = 0
+    while opcion != "4":
+
+        print("1. Nuevo Producto\n"
+              "2. Eliminar Producto\n"
+              "3. Mostrar Productos\n"
+              "4. Salir")
+
+
+        opcion = input("opcion: ")[0]
+
+        if opcion != "4":
+            falmacen.get(opcion)()
 
 # //////////////////////////////////////////////////////////////////////////////////////
 # //////////////////////////////////// Login ///////////////////////////////////////////
@@ -57,11 +128,11 @@ if nivelAcceso != "denegado":
                 6: "6.- Almacen"}
 
     while opcion != "7":
-        #si es mas de 1 es que existe ese numero en el archivo y añade al diccionario de niveles
+        # si es mas de 1 es que existe ese numero en el archivo y añade al diccionario de niveles
         # esa opcion del menu
         for i in opciones:
             if nivelAcceso.count(str(i)) > 0: niveles[i] = opciones[i]
-        #pinta el menu
+        # pinta el menu
         for nivel in niveles:
             print(niveles[nivel])
 
@@ -69,14 +140,14 @@ if nivelAcceso != "denegado":
 
         opcion = input("opcion: ")[0]
 
-#////////////////////////////// Bloqueo de acceso denegado //////////////////////////////////////////////
-        #aqui intenta acceder a la posicion del menu por si introduce una opcion que no puede acceder
+        # ////////////////////////////// Bloqueo de acceso denegado //////////////////////////////////////////////
+        # aqui intenta acceder a la posicion del menu por si introduce una opcion que no puede acceder
         errores = False
         try:
             niveles[int(opcion)]
         except:
             errores = True
-#////////////////////////////////////////////////////////////////////////////////////////////////////////
+        # ////////////////////////////////////////////////////////////////////////////////////////////////////////
 
         if opcion != "7" and not errores:
             funciones.get(opcion)()
