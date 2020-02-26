@@ -1,26 +1,11 @@
 import Clase
 import Funcion
 
-# lista de proveedores
-proveedores = [Clase.Proveedor]
-productos = [Clase.Producto]
-
-def nuevaOrden():
-    errores = False
-
-    if len(proveedores) < 1: errores = "Deben existir al menos un proveedor"
-
-    if not errores:
-        proveedorElegido = Funcion.muestraProveedor()
-        producto = input("Nombre: ").strip()#todo aqui hay que poner una clase producto que esta en almacen
-        cantidad = input("cantidad: ").strip()
-
-
-        print("nueva orden de compra")
-    else:
-        print(errores)
-
-
+falmacen = {
+    "1": Funcion.nuevoProducto,
+    "2": "",#eliminaProducto,
+    "3": Funcion.muestraProductos
+}
 def editarOrden():
     print("editar orden de compra")
 
@@ -32,8 +17,13 @@ def anularOrden():
 def mostrarOrdenes():
     print("mostrar ordenes de compra")
 
-fcompras = {"1": nuevaOrden, "2": editarOrden, "3": anularOrden, "4": Funcion.creaProveeodor, "5": mostrarOrdenes}
-
+fcompras = {
+    "1": Funcion.nuevaOrden,
+    "2": editarOrden,
+    "3": anularOrden,
+    "4": Funcion.creaProveeodor,
+    "5": mostrarOrdenes
+}
 
 def compras():
     opcion = 0
@@ -75,7 +65,7 @@ def muestraProducto():
     print("muestra producto")
 
 
-falmacen = {"1": Funcion.nuevoProducto, "2": eliminaProducto, "3": muestraProducto}
+
 
 def almacen():
 
@@ -96,8 +86,14 @@ def almacen():
 # //////////////////////////////////////////////////////////////////////////////////////
 # //////////////////////////////////// Login ///////////////////////////////////////////
 # //////////////////////////////////////////////////////////////////////////////////////
-funciones = {"1": compras, "2": ventas, "3": produccion, "4": finanzas, "5": clientes,
-             "6": almacen}
+funciones = {
+    "1": compras,
+    "2": ventas,
+    "3": produccion,
+    "4": finanzas,
+    "5": clientes,
+    "6": almacen
+}
 
 print("## LOGIN ##")
 nombre = input("Usuario: ").strip()
