@@ -1,4 +1,4 @@
-class Proveedor:
+class Persona:
 
     # Constructor
     def __init__(self, nombre, direccion):

@@ -1,11 +1,5 @@
-import Clase
 import Funcion
 
-falmacen = {
-    "1": Funcion.nuevoProducto,
-    "2": "",#eliminaProducto,
-    "3": Funcion.muestraProductos
-}
 def editarOrden():
     print("editar orden de compra")
 
@@ -13,17 +7,38 @@ def editarOrden():
 def anularOrden():
     print("anular orden de compra")
 
-
 def mostrarOrdenes():
     print("mostrar ordenes de compra")
 
-fcompras = {
-    "1": Funcion.nuevaOrden,
-    "2": editarOrden,
-    "3": anularOrden,
-    "4": Funcion.creaProveeodor,
-    "5": mostrarOrdenes
-}
+def ventas():
+    print("Ventas")
+
+def produccion():
+    print("Produccion")
+
+def finanzas():
+    print("Finanzas")
+
+def eliminaProducto():
+    print("Elimina producto")
+
+def muestraProducto():
+    print("muestra producto")
+
+def clientes():
+    opcion = 0
+    while opcion != 4:
+
+        print("1.- Nuevo Cliente\n"
+              "2.- Eliminar Cliente\n"
+              "3.- Mostrar Clientes\n"
+              "4.- Atras")
+
+        opcion = input("opcion: ")[0]
+
+        if opcion in fclientes.keys():
+            fclientes.get(opcion)(False) if (opcion == "3") else fclientes.get(opcion)()
+
 
 def compras():
     opcion = 0
@@ -38,50 +53,42 @@ def compras():
 
         opcion = input("opcion: ")[0]
 
-        if opcion != "6":
+        if opcion in fcompras.keys():
             fcompras.get(opcion)()
 
-
-def ventas():
-    print("Ventas")
-
-
-def produccion():
-    print("Produccion")
-
-
-def finanzas():
-    print("Finanzas")
-
-
-def clientes():
-    print("Clientes")
-
-
-def eliminaProducto():
-    print("Elimina producto")
-
-def muestraProducto():
-    print("muestra producto")
-
-
-
-
 def almacen():
-
     opcion = 0
     while opcion != "4":
 
         print("1. Nuevo Producto\n"
               "2. Eliminar Producto\n"
               "3. Mostrar Productos\n"
-              "4. Salir")
+              "4. Atras")
 
 
         opcion = input("opcion: ")[0]
 
-        if opcion != "4":
-            falmacen.get(opcion)()
+        if opcion in falmacen.keys():
+            falmacen.get(opcion)(False) if (opcion == "3") else falmacen.get(opcion)()
+
+falmacen = {
+    "1": Funcion.nuevoProducto,
+    "2": Funcion.eliminaProducto,
+    "3": Funcion.muestraProductos
+}
+fclientes = {
+    "1": Funcion.nuevoCliente,
+    "2": Funcion.eliminaCliente,
+    "3": Funcion.muestraClientes
+}
+fcompras = {
+    "1": Funcion.nuevaOrden,
+    "2": editarOrden,
+    "3": anularOrden,
+    "4": Funcion.creaProveeodor,
+    "5": mostrarOrdenes
+}
+
 
 # //////////////////////////////////////////////////////////////////////////////////////
 # //////////////////////////////////// Login ///////////////////////////////////////////
