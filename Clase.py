@@ -26,18 +26,15 @@ class Producto:
 
 class OrdenCompra:
 
-    __productos = [Producto]
+    __productos = {}
 
     #Constructor
-    def __init__(self, proveedor, productos, cantidad):
+    def __init__(self, proveedor, productos):
         self.__productos = productos
-        self.__cantidad = cantidad
         self.__proveedor = proveedor
 
     #Getters y Setters
     def getProductos(self):
         return self.__productos
-    def getCantidad(self):
-        return self.__cantidad
     def getProveedor(self):
         return self.__proveedor

@@ -10,7 +10,7 @@ ordenesCompra = []
 #                       MUESTRA LA LISTA DE PROVEEDORES
 #////////////////////////////////////////////////////////////////////////////////////
 def muestraProveedor():
-    repite = True
+    repite = True if len(proveedores) > 0 else False
     while repite:
         i = 1
         for pro in proveedores:
@@ -18,7 +18,7 @@ def muestraProveedor():
             i += 1
 
         try:
-            return int(input("Elige un proveedor: ")) - 1
+            return int(input("Elige un proveedor o inserta 0 para crear uno nuevo: ")) - 1
         except:
             repite = True
 #////////////////////////////////////////////////////////////////////////////////////
@@ -35,9 +35,11 @@ def muestraProductos(quiereUnoConcreto):
 
         if quiereUnoConcreto:
             try:
-                return int(input("Elige un producto o pon un 0 si no está el que buscas: ")) - 1
+                return int(input("Elige un producto o inserta 0 para crear uno nuevo: ")) - 1
             except:
                 repite = True
+        else:
+            repite = False
 #////////////////////////////////////////////////////////////////////////////////////
 #                       MUESTRA LA LISTA DE CLIENTES
 #////////////////////////////////////////////////////////////////////////////////////
@@ -52,46 +54,72 @@ def muestraClientes(quiereUnoConcreto):
 
         if quiereUnoConcreto:
             try:
-                return int(input("Elige un cliente o pon un 0 si no está el que buscas: ")) - 1
+                return int(input("Elige un cliente o pon un n para crear uno nuevo: ")) - 1
             except:
                 repite = True
+        else:
+            repite = False
 #////////////////////////////////////////////////////////////////////////////////////
 #                       MUESTRA LA LISTA DE ORDENES DE COMPRA
 #////////////////////////////////////////////////////////////////////////////////////
-def muestraOrdenesCompra():#todo esto esta por terminar
-    repite = True
+def muestraOrdenesCompra(quiereUnaConcreta):
+    repite = True if len(ordenesCompra) > 0 else False
     while repite:
         i = 1
         for oc in ordenesCompra:
-            #print(i, ": ", oc.getProveedor())
+            print(i, ": Proveedor- >", oc.getProveedor().getNombre())
+
+            for producto, cantidad in oc.getProductos().items():
+                print(producto.getNombre(), ": ", cantidad)
+
             i += 1
 
-        try:
-            return int(input("Elige un proveedor: ")) - 1
-        except:
-            repite = True
+        print("\n")
+
+        if quiereUnaConcreta:
+            try:
+                return int(input("Elige una orden: ")) - 1
+            except:
+                repite = True
+        else:
+            repite = False
 #////////////////////////////////////////////////////////////////////////////////////
 #                                  CREA ORDEN DE COMPRA
 #////////////////////////////////////////////////////////////////////////////////////
 def nuevaOrden():
     errores = False
 
-    if len(proveedores) < 1: errores = "Deben existir al menos un proveedor\n"
     if not errores:
+        #Me interesa crear una lista de productos cada vez que se llame a esta funcion
+        listaProductos = {}
+
         proveedorElegido = muestraProveedor()
 
-        productoElegido = muestraProductos(True)
+        if proveedorElegido is None or proveedorElegido < 0:
+            print("-Creando nuevo Proveedor-")
+            creaProveeodor()
+            proveedorElegido = len(almacen) - 1
 
-        if productoElegido == -1:
-            nuevoProducto()
-            productoElegido = len(almacen) -1
+        repite = True
+        while repite:
+            productoElegido = muestraProductos(True)
 
-        cantidad = input("cantidad: ").strip()
+            if productoElegido is None or productoElegido < 0:
+                print("-Creando Nuevo Producto-")
+                nuevoProducto()
+                productoElegido = len(almacen) -1
 
-        ordenCompra = Clase.OrdenCompra(proveedores[proveedorElegido], almacen[productoElegido], cantidad)
+            cantidad = input("cantidad: ").strip()
+
+            listaProductos[almacen[productoElegido]] = cantidad
+
+            respuesta = input("¿Agregar otro producto? (s/n)").strip()
+
+            repite = False if respuesta == "n" else True
+
+        ordenCompra = Clase.OrdenCompra(proveedores[proveedorElegido], listaProductos)
         ordenesCompra.append(ordenCompra)
         print("Orden Creada!\n")
-
 
         print("nueva orden de compra")
     else:
@@ -157,7 +185,7 @@ def eliminaProducto():
     productoElegido = muestraProductos(eligeUno)
     print("Nada que borrar\n" if productoElegido is None else almacen.pop(productoElegido).getNombre() + " Eliminado\n")
 #////////////////////////////////////////////////////////////////////////////////////
-#                           ELIMINAR PRODUCTO
+#                           ELIMINAR CLIENTE
 #////////////////////////////////////////////////////////////////////////////////////
 def eliminaCliente():
     eligeUno = True

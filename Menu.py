@@ -3,7 +3,6 @@ import Funcion
 def editarOrden():
     print("editar orden de compra")
 
-
 def anularOrden():
     print("anular orden de compra")
 
@@ -48,13 +47,13 @@ def compras():
               "2. Editar orden de compra\n"
               "3. Anular orden de compra\n"
               "4. Crear proveedor\n"
-              "5. Mostrar órdenes de venta\n"
+              "5. Mostrar órdenes de compra\n"
               "6. Atras")
 
         opcion = input("opcion: ")[0]
 
         if opcion in fcompras.keys():
-            fcompras.get(opcion)()
+            fcompras.get(opcion)(False) if (opcion == "5") else fcompras.get(opcion)()
 
 def almacen():
     opcion = 0
@@ -64,7 +63,6 @@ def almacen():
               "2. Eliminar Producto\n"
               "3. Mostrar Productos\n"
               "4. Atras")
-
 
         opcion = input("opcion: ")[0]
 
@@ -86,9 +84,8 @@ fcompras = {
     "2": editarOrden,
     "3": anularOrden,
     "4": Funcion.creaProveeodor,
-    "5": mostrarOrdenes
+    "5": Funcion.muestraOrdenesCompra
 }
-
 
 # //////////////////////////////////////////////////////////////////////////////////////
 # //////////////////////////////////// Login ///////////////////////////////////////////
