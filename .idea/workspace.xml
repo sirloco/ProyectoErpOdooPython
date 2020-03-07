@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04705111-361e-4ceb-8d17-11a96e752a67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Clase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Clase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Funcion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Funcion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Menu.py" afterDir="false" />
     </list>
@@ -34,7 +35,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -208,11 +209,11 @@
       <screen x="80" y="23" width="1968" height="1129" />
     </state>
     <state width="1947" height="386" key="GridCell.Tab.1.right/80.23.1968.1129@80.23.1968.1129" timestamp="1582837003118" />
-    <state x="456" y="228" key="SettingsEditor" timestamp="1581619904269">
-      <screen x="45" y="23" width="2003" height="1129" />
+    <state x="259" y="60" key="SettingsEditor" timestamp="1583440352115">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1080" y="238" key="SettingsEditor/-1080.-155.864.1496/0.0.1536.824@-1080.-155.864.1496" timestamp="1581273037541" />
-    <state x="0" y="115" key="SettingsEditor/-1080.-155.864.1496/0.0.1536.824@0.0.1536.824" timestamp="1581273113284" />
+    <state x="259" y="60" key="SettingsEditor/-1080.-155.864.1496/0.0.1536.824@0.0.1536.824" timestamp="1583440352115" />
     <state x="455" y="228" key="SettingsEditor/44.23.2004.1129@44.23.2004.1129" timestamp="1581619562991" />
     <state x="456" y="228" key="SettingsEditor/45.23.2003.1129@45.23.2003.1129" timestamp="1581619904269" />
     <state x="724" y="419" key="com.intellij.ide.util.TipDialog" timestamp="1581620183006">

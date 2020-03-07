@@ -1,0 +1,25 @@
+adminAccedió 07-03-2020 (15 horas :40 minutos :42 segundos
+admin Accedió a Gestion de Clientes07-03-2020 (15 horas :43 minutos :54 segundos
+santi Accedió a Gestion de Clientes el 07-03-2020  15:45:55
+santiAccedió a Gestion de Clientes el 07-03-2020  15:48:23
+santi Accedió a Gestion de Clientes el 07-03-2020  15:48:51
+admin Accedió al Departamento de Compras el 07-03-2020  16:37:52
+Se ha Mostrado la lista de proveedores el 07-03-2020  16:37:52
+Proveedor santi Creado el 07-03-2020  16:37:57
+Se ha mostrardo la lista de productos el 07-03-2020  16:37:57
+Producto peras Creado el 07-03-2020  16:38:02
+Se ha mostrardo la lista de productos el 07-03-2020  16:38:04
+Producto naranjas Creado el 07-03-2020  16:38:13
+Se ha creado una orden de compra el 07-03-2020  16:38:17
+admin Accedió al Departamento de Compras el 07-03-2020  16:38:23
+Se ha mostrado el listado de ordenes de compra el 07-03-2020  16:38:23
+admin Accedió al Departamento de Compras el 07-03-2020  16:38:30
+Se ha mostrado el listado de ordenes de compra el 07-03-2020  16:38:30
+Anulada orden de compra el 07-03-2020  16:38:36
+admin Accedió a Gestion de Clientes el 07-03-2020  16:39:18
+Cliente pepe Creado el 07-03-2020  16:39:22
+admin Accedió a Gestion de Clientes el 07-03-2020  16:39:26
+Se ha mostrado la lista de clientes el 07-03-2020  16:39:26
+admin Accedió a Gestion de Clientes el 07-03-2020  16:39:31
+Se ha mostrardo la lista de productos el 07-03-2020  16:39:31
+Cliente pepe Eliminado el 07-03-2020  16:39:48
