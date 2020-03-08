@@ -38,3 +38,15 @@ class OrdenCompra:
         return self.__productos
     def getProveedor(self):
         return self.__proveedor
+
+class OrdenVenta:
+
+    __productos = {}
+
+    #Constructor
+    def __init__(self, productos):
+        self.__productos = productos
+
+    #Getters y Setters
+    def getProductos(self):
+        return self.__productos

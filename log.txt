@@ -23,3 +23,153 @@ Se ha mostrado la lista de clientes el 07-03-2020  16:39:26
 admin Accedió a Gestion de Clientes el 07-03-2020  16:39:31
 Se ha mostrardo la lista de productos el 07-03-2020  16:39:31
 Cliente pepe Eliminado el 07-03-2020  16:39:48
+admin Accedió al Departamento de Ventas el 08-03-2020  18:27:42
+Se ha mostrado la lista de clientes el 08-03-2020  18:27:42
+Cliente sd Creado el 08-03-2020  18:27:50
+Se ha mostrardo la lista de productos el 08-03-2020  18:27:50
+Producto dd Creado el 08-03-2020  18:27:54
+Se ha creado una orden de Venta el 08-03-2020  18:27:58
+admin Accedió al Departamento de Compras el 08-03-2020  18:31:01
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  18:31:01
+admin Accedió al Almacén el 08-03-2020  18:31:12
+Se ha mostrardo la lista de productos el 08-03-2020  18:31:12
+admin Accedió al Departamento de Compras el 08-03-2020  21:44:20
+Se ha Mostrado la lista de proveedores el 08-03-2020  21:44:20
+admin Accedió al Departamento de Compras el 08-03-2020  21:45:20
+Se ha Mostrado la lista de proveedores el 08-03-2020  21:45:20
+admin Accedió al Departamento de Compras el 08-03-2020  21:55:45
+Se ha Mostrado la lista de proveedores el 08-03-2020  21:55:45
+Proveedor santi Creado el 08-03-2020  21:55:50
+Se ha mostrardo la lista de productos el 08-03-2020  21:55:50
+Producto peras Creado el 08-03-2020  21:55:54
+Se ha creado una orden de compra el 08-03-2020  21:55:57
+admin Accedió al Departamento de Compras el 08-03-2020  21:56:01
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  21:56:01
+admin Accedió al Departamento de Compras el 08-03-2020  22:01:39
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:01:39
+Proveedor pepe Creado el 08-03-2020  22:01:42
+Se ha mostrardo la lista de productos el 08-03-2020  22:01:42
+Producto peras Creado el 08-03-2020  22:01:46
+Se ha creado una orden de compra el 08-03-2020  22:01:48
+admin Accedió al Departamento de Compras el 08-03-2020  22:01:52
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:01:52
+admin Accedió al Departamento de Compras el 08-03-2020  22:02:33
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:02:33
+Proveedor juan Creado el 08-03-2020  22:02:35
+Se ha mostrardo la lista de productos el 08-03-2020  22:02:35
+Producto peras Creado el 08-03-2020  22:02:39
+Se ha creado una orden de compra el 08-03-2020  22:02:42
+admin Accedió al Departamento de Compras el 08-03-2020  22:02:45
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:02:45
+admin Accedió al Departamento de Compras el 08-03-2020  22:11:27
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:11:27
+Proveedor juam Creado el 08-03-2020  22:11:34
+Se ha mostrardo la lista de productos el 08-03-2020  22:11:34
+Producto peras Creado el 08-03-2020  22:11:38
+Se ha creado una orden de compra el 08-03-2020  22:11:41
+admin Accedió al Departamento de Compras el 08-03-2020  22:11:44
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:11:44
+admin Accedió al Departamento de Compras el 08-03-2020  22:15:14
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:15:14
+Proveedor santi Creado el 08-03-2020  22:15:19
+Se ha mostrardo la lista de productos el 08-03-2020  22:15:19
+Producto naranjas Creado el 08-03-2020  22:15:23
+Se ha mostrardo la lista de productos el 08-03-2020  22:15:25
+Producto peras Creado el 08-03-2020  22:15:33
+Se ha creado una orden de compra el 08-03-2020  22:15:41
+admin Accedió al Departamento de Compras el 08-03-2020  22:15:43
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:15:43
+admin Accedió al Departamento de Compras el 08-03-2020  22:20:16
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:20:16
+Proveedor santi Creado el 08-03-2020  22:20:20
+Se ha mostrardo la lista de productos el 08-03-2020  22:20:20
+Producto peras Creado el 08-03-2020  22:20:23
+Se ha creado una orden de compra el 08-03-2020  22:20:26
+admin Accedió al Departamento de Compras el 08-03-2020  22:20:29
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:20:29
+admin Accedió al Departamento de Compras el 08-03-2020  22:22:24
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:22:24
+Proveedor santi Creado el 08-03-2020  22:22:27
+Se ha mostrardo la lista de productos el 08-03-2020  22:22:27
+Producto peras Creado el 08-03-2020  22:22:30
+Se ha creado una orden de compra el 08-03-2020  22:22:31
+admin Accedió al Departamento de Compras el 08-03-2020  22:22:33
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:22:33
+admin Accedió al Departamento de Compras el 08-03-2020  22:24:33
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:24:33
+Proveedor santi Creado el 08-03-2020  22:24:35
+Se ha mostrardo la lista de productos el 08-03-2020  22:24:35
+Producto peras Creado el 08-03-2020  22:24:38
+Se ha creado una orden de compra el 08-03-2020  22:24:40
+admin Accedió al Departamento de Compras el 08-03-2020  22:24:41
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:24:41
+admin Accedió al Departamento de Compras el 08-03-2020  22:25:36
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:25:36
+Proveedor santi Creado el 08-03-2020  22:25:42
+Se ha mostrardo la lista de productos el 08-03-2020  22:25:42
+Producto peras Creado el 08-03-2020  22:25:45
+Se ha mostrardo la lista de productos el 08-03-2020  22:25:49
+Producto naranjas Creado el 08-03-2020  22:25:55
+Se ha creado una orden de compra el 08-03-2020  22:25:59
+admin Accedió al Departamento de Compras el 08-03-2020  22:26:00
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:26:00
+admin Accedió al Departamento de Compras el 08-03-2020  22:27:46
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:27:46
+Proveedor pepito Creado el 08-03-2020  22:27:51
+Se ha mostrardo la lista de productos el 08-03-2020  22:27:51
+Producto peras Creado el 08-03-2020  22:27:55
+Se ha mostrardo la lista de productos el 08-03-2020  22:27:57
+Producto jujas Creado el 08-03-2020  22:28:12
+Se ha creado una orden de compra el 08-03-2020  22:28:16
+admin Accedió al Departamento de Compras el 08-03-2020  22:28:19
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:28:19
+admin Accedió al Departamento de Compras el 08-03-2020  22:28:54
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:28:54
+Proveedor santi Creado el 08-03-2020  22:28:57
+Se ha mostrardo la lista de productos el 08-03-2020  22:28:57
+Producto peras Creado el 08-03-2020  22:29:01
+Se ha mostrardo la lista de productos el 08-03-2020  22:29:04
+Se ha mostrardo la lista de productos el 08-03-2020  22:29:08
+Producto naranjas Creado el 08-03-2020  22:29:12
+Se ha creado una orden de compra el 08-03-2020  22:29:15
+admin Accedió al Departamento de Compras el 08-03-2020  22:29:18
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:29:18
+admin Accedió al Departamento de Compras el 08-03-2020  22:30:33
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:30:33
+Proveedor juanito Creado el 08-03-2020  22:30:38
+Se ha mostrardo la lista de productos el 08-03-2020  22:30:38
+Producto peras Creado el 08-03-2020  22:30:41
+Se ha mostrardo la lista de productos el 08-03-2020  22:30:44
+Producto naranjas Creado el 08-03-2020  22:30:52
+Se ha mostrardo la lista de productos el 08-03-2020  22:30:56
+Se ha creado una orden de compra el 08-03-2020  22:31:00
+admin Accedió al Departamento de Compras el 08-03-2020  22:31:03
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:31:03
+santi Accedió al Departamento de Compras el 08-03-2020  22:32:05
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:32:05
+Proveedor pepe Creado el 08-03-2020  22:32:09
+Se ha mostrardo la lista de productos el 08-03-2020  22:32:09
+Producto peras Creado el 08-03-2020  22:32:12
+Se ha creado una orden de compra el 08-03-2020  22:32:15
+santi Accedió al Departamento de Compras el 08-03-2020  22:32:17
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:32:17
+admin Accedió al Departamento de Compras el 08-03-2020  22:33:56
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:33:56
+Proveedor pepe Creado el 08-03-2020  22:33:59
+Se ha mostrardo la lista de productos el 08-03-2020  22:33:59
+Producto peras Creado el 08-03-2020  22:34:02
+Se ha creado una orden de compra el 08-03-2020  22:34:04
+admin Accedió al Departamento de Compras el 08-03-2020  22:34:06
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:34:06
+admin Accedió al Departamento de Compras el 08-03-2020  22:35:12
+Se ha Mostrado la lista de proveedores el 08-03-2020  22:35:12
+Proveedor juan Creado el 08-03-2020  22:35:18
+Se ha mostrardo la lista de productos el 08-03-2020  22:35:18
+Producto peras Creado el 08-03-2020  22:35:22
+Se ha mostrardo la lista de productos el 08-03-2020  22:35:25
+Producto narajnas Creado el 08-03-2020  22:35:31
+Se ha mostrardo la lista de productos el 08-03-2020  22:35:34
+Producto pelotas Creado el 08-03-2020  22:35:45
+Se ha creado una orden de compra el 08-03-2020  22:35:47
+admin Accedió al Departamento de Compras el 08-03-2020  22:35:49
+Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:35:49

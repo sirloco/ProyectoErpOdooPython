@@ -1,11 +1,16 @@
 import Clase
 from datetime import datetime
+from reportlab.lib.pagesizes import A4
+from reportlab.pdfgen import canvas
+import os
 
 # lista de proveedores
 proveedores = []
 almacen = []
 clientes = []
+empleados = []
 ordenesCompra = []
+ordenesVenta = []
 
 
 # ////////////////////////////////////////////////////////////////////////////////////
@@ -69,6 +74,53 @@ def muestraClientes(quiereUnoConcreto):
 
 
 # ////////////////////////////////////////////////////////////////////////////////////
+#                       MUESTRA LA LISTA DE CLIENTES
+# ////////////////////////////////////////////////////////////////////////////////////
+def muestraEmpleados(quiereUnoConcreto):
+    log("Se ha mostrado la lista de empleados")
+    repite = True if len(empleados) > 0 else False
+    while repite:
+        i = 1
+        for e in empleados:
+            print(i, ": ", e.getNombre())
+            i += 1
+
+        if quiereUnoConcreto:
+            try:
+                return int(input("Elige un empleado o pon un n para crear uno nuevo: ")) - 1
+            except:
+                repite = True
+        else:
+            repite = False
+
+
+# ////////////////////////////////////////////////////////////////////////////////////
+#                       MUESTRA LA LISTA DE ORDENES DE VENTA
+# ////////////////////////////////////////////////////////////////////////////////////
+def muestraVentas(quiereUnaConcreta):
+    log("Se ha mostrado el listado de ordenes de venta")
+    repite = True if len(ordenesVenta) > 0 else False
+    while repite:
+        i = 1
+        for ov in ordenesVenta:
+
+            for producto, cantidad in ov.getProductos().items():
+                print(producto.getNombre(), ": ", cantidad)
+
+            i += 1
+
+        print("\n")
+
+        if quiereUnaConcreta:
+            try:
+                return int(input("Elige una orden: ")) - 1
+            except:
+                repite = True
+        else:
+            repite = False
+
+
+# ////////////////////////////////////////////////////////////////////////////////////
 #                       MUESTRA LA LISTA DE ORDENES DE COMPRA
 # ////////////////////////////////////////////////////////////////////////////////////
 def muestraOrdenesCompra(quiereUnaConcreta):
@@ -96,6 +148,47 @@ def muestraOrdenesCompra(quiereUnaConcreta):
 
 
 # ////////////////////////////////////////////////////////////////////////////////////
+#                                  CREA ORDEN DE VENTA
+# ////////////////////////////////////////////////////////////////////////////////////
+def nuevaVenta():
+    errores = False
+
+    if not errores:
+        listaProductos = {}
+
+        clienteElegido = muestraClientes(True)
+
+        if clienteElegido is None or clienteElegido < 0:
+            print("-Creando nuevo Cliente-")
+            nuevoCliente()
+            clienteElegido = len(clientes) - 1
+
+        repite = True
+        while repite:
+            productoElegido = muestraProductos(True)
+
+            if productoElegido is None or productoElegido < 0:
+                print("-Creando Nuevo Producto-")
+                nuevoProducto()
+                productoElegido = len(almacen) - 1
+
+            cantidad = input("cantidad: ").strip()
+
+            listaProductos[almacen[productoElegido]] = cantidad
+
+            respuesta = input("¿Agregar otro producto? (s/n)").strip()
+
+            repite = False if respuesta == "n" else True
+
+        ordenVenta = Clase.OrdenVenta(listaProductos)
+        ordenesVenta.append(ordenVenta)
+        print("Orden Creada!\n")
+        log("Se ha creado una orden de Venta")
+    else:
+        print(errores)
+
+
+# ////////////////////////////////////////////////////////////////////////////////////
 #                                  CREA ORDEN DE COMPRA
 # ////////////////////////////////////////////////////////////////////////////////////
 def nuevaOrden():
@@ -110,7 +203,7 @@ def nuevaOrden():
         if proveedorElegido is None or proveedorElegido < 0:
             print("-Creando nuevo Proveedor-")
             creaProveeodor()
-            proveedorElegido = len(almacen) - 1
+            proveedorElegido = len(proveedores) - 1
 
         repite = True
         while repite:
@@ -154,6 +247,27 @@ def creaProveeodor():
         proveedores.append(proveedor)
         print("{0} Creado!\n".format(proveedor.getNombre()))
         log("Proveedor {0} Creado".format(proveedor.getNombre()))
+
+    else:
+        print(errores)
+
+
+# ////////////////////////////////////////////////////////////////////////////////////
+#                            CREA EMPLEADO NUEVO
+# ////////////////////////////////////////////////////////////////////////////////////
+def nuevoEmpleado():
+    errores = False
+    nombre = input("Nombre: ").strip()
+    direccion = input("Direccion: ").strip()
+
+    if nombre == "" or direccion == "": errores = "Error, campos obligatorios!"
+
+    if not errores:
+
+        empleado = Clase.Persona(nombre, direccion)
+        empleados.append(empleado)
+        print("{0} Creado!\n".format(empleado.getNombre()))
+        log("Empleado {0} Creado".format(empleado.getNombre()))
 
     else:
         print(errores)
@@ -229,6 +343,21 @@ def eliminaCliente():
 
 
 # ////////////////////////////////////////////////////////////////////////////////////
+#                           ELIMINAR EMPLEADO
+# ////////////////////////////////////////////////////////////////////////////////////
+def eliminaEmpleado():
+    eligeUno = True
+    empleadoElegido = muestraEmpleados(eligeUno)
+
+    if empleadoElegido is None:
+        print("Nada que borrar\n")
+    else:
+        empl = clientes.pop(empleadoElegido).getNombre()
+        print(empl + " Eliminado\n")
+        log("Empleado " + empl + " Eliminado")
+
+
+# ////////////////////////////////////////////////////////////////////////////////////
 #                           ELIMINAR ORDEN DE COMPRA
 # ////////////////////////////////////////////////////////////////////////////////////
 def anularOrden():
@@ -244,6 +373,21 @@ def anularOrden():
 
 
 # ////////////////////////////////////////////////////////////////////////////////////
+#                           ELIMINAR ORDEN DE COMPRA
+# ////////////////////////////////////////////////////////////////////////////////////
+def anularVenta():
+    eligeUno = True
+    ordenElegida = muestraVentas(eligeUno)
+
+    if ordenElegida is None:
+        print("Nada que borrar\n")
+    else:
+        ordenesVenta.pop(ordenElegida)
+        print("Eliminada!\n")
+        log("Anulada orden de venta")
+
+
+# ////////////////////////////////////////////////////////////////////////////////////
 #                           REGISTRO DE LOG
 # ////////////////////////////////////////////////////////////////////////////////////
 def log(reg):
@@ -255,3 +399,23 @@ def log(reg):
         (reg + " el " + ahora.strftime("%d-%m-%Y  %H:%M:%S") + "\n"))
 
     archivo.close()
+
+# ////////////////////////////////////////////////////////////////////////////////////
+#                       MUESTRA LA LISTA DE ORDENES DE COMPRA
+# ////////////////////////////////////////////////////////////////////////////////////
+def imprimirOrdenDeCompra():
+    ordenElegida = muestraOrdenesCompra(True)
+    w, h = A4
+    c = canvas.Canvas("Orden_de_Compra.pdf")
+    # Rectángulo.
+    c.drawString(50, h - 50, ordenesCompra[ordenElegida].getProveedor().getNombre())
+    columna = 75
+    linea = 65
+
+    for producto, cantidad in ordenesCompra[ordenElegida].getProductos().items():
+        c.drawString(columna, h - linea, producto.getNombre() + ": " + cantidad)
+        linea += 25
+
+    c.showPage()
+    c.save()
+    print("Documento Impreso revisa la carpeta del proyecto")

@@ -2,11 +2,37 @@ import Funcion
 
 nombre = ""
 
+
 def ventas():
-    print("Ventas")
+    opcion = 0
+    while opcion != "5":
+
+        print("1. Crear Venta\n"
+              "2. Anular orden Venta\n"
+              "3. Mostrar Ventas\n"
+              "4. Atras")
+
+        opcion = input("opcion: ")[0]
+
+        if opcion in fcompras.keys():
+            Funcion.log(nombre + " Accedió al Departamento de Ventas")
+            fventas.get(opcion)(False) if (opcion == "3") else fventas.get(opcion)()
+
 
 def empleados():
-    print("Finanzas")
+    opcion = 0
+    while opcion != "4":
+
+        print("1. Nuevo Empleado\n"
+              "2. Eliminar Empleado\n"
+              "3. Mostrar Empleados\n"
+              "4. Atras")
+
+        opcion = input("opcion: ")[0]
+
+        if opcion in fempleados.keys():
+            Funcion.log(nombre + " Accedió a gestión de empleados")
+            fempleados.get(opcion)(False) if (opcion == "3") else fempleados.get(opcion)()
 
 
 def clientes():
@@ -27,19 +53,21 @@ def clientes():
 
 def compras():
     opcion = 0
-    while opcion != "5":
+    while opcion != "6":
 
         print("1. Crear orden de compra\n"
               "2. Anular orden de compra\n"
               "3. Crear proveedor\n"
               "4. Mostrar órdenes de compra\n"
-              "5. Atras")
+              "5. imprimir orden de compra\n"
+              "6. Atras")
 
         opcion = input("opcion: ")[0]
 
         if opcion in fcompras.keys():
             Funcion.log(nombre + " Accedió al Departamento de Compras")
             fcompras.get(opcion)(False) if (opcion == "4") else fcompras.get(opcion)()
+
 
 def almacen():
     opcion = 0
@@ -56,6 +84,7 @@ def almacen():
             Funcion.log(nombre + " Accedió al Almacén")
             falmacen.get(opcion)(False) if (opcion == "3") else falmacen.get(opcion)()
 
+
 falmacen = {
     "1": Funcion.nuevoProducto,
     "2": Funcion.eliminaProducto,
@@ -67,14 +96,23 @@ fclientes = {
     "2": Funcion.eliminaCliente,
     "3": Funcion.muestraClientes
 }
-
+fempleados = {
+    "1": Funcion.nuevoEmpleado,
+    "2": Funcion.eliminaEmpleado,
+    "3": Funcion.muestraEmpleados
+}
 fcompras = {
     "1": Funcion.nuevaOrden,
     "2": Funcion.anularOrden,
     "3": Funcion.creaProveeodor,
-    "4": Funcion.muestraOrdenesCompra
+    "4": Funcion.muestraOrdenesCompra,
+    "5": Funcion.imprimirOrdenDeCompra
 }
-
+fventas = {
+    "1": Funcion.nuevaVenta,
+    "2": Funcion.anularVenta,
+    "3": Funcion.muestraVentas
+}
 funciones = {
     "1": compras,
     "2": ventas,
