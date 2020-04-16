@@ -173,3 +173,1469 @@ Producto pelotas Creado el 08-03-2020  22:35:45
 Se ha creado una orden de compra el 08-03-2020  22:35:47
 admin Accedió al Departamento de Compras el 08-03-2020  22:35:49
 Se ha mostrado el listado de ordenes de compra el 08-03-2020  22:35:49
+admin Accedió a Gestion de Clientes el 03-04-2020  02:11:49
+Cliente pepe Creado el 03-04-2020  02:11:56
+admin Accedió a Gestion de Clientes el 03-04-2020  02:13:00
+Cliente pepe Creado el 03-04-2020  02:13:06
+admin Accedió a Gestion de Clientes el 03-04-2020  02:24:20
+admin Accedió a Gestion de Clientes el 03-04-2020  02:25:40
+admin Accedió a Gestion de Clientes el 03-04-2020  02:26:55
+admin Accedió a Gestion de Clientes el 03-04-2020  02:27:59
+Cliente ss Creado el 03-04-2020  02:28:01
+admin Accedió a Gestion de Clientes el 03-04-2020  02:31:00
+Cliente pepe Creado el 03-04-2020  02:31:03
+admin Accedió a Gestion de Clientes el 03-04-2020  02:31:57
+Cliente santi Creado el 03-04-2020  02:31:59
+admin Accedió a Gestion de Clientes el 03-04-2020  02:33:00
+Cliente juan Creado el 03-04-2020  02:33:02
+admin Accedió a Gestion de Clientes el 03-04-2020  02:33:23
+Cliente usu Creado el 03-04-2020  02:33:28
+admin Accedió a Gestion de Clientes el 03-04-2020  03:03:36
+admin Accedió a Gestion de Clientes el 03-04-2020  03:04:27
+Cliente juanete Creado el 03-04-2020  03:04:31
+admin Accedió al Almacén el 10-04-2020  17:45:04
+Producto pepitas Creado el 10-04-2020  17:45:08
+admin Accedió al Almacén el 10-04-2020  17:47:31
+admin Accedió al Almacén el 10-04-2020  17:52:29
+admin Accedió al Almacén el 10-04-2020  17:53:14
+admin Accedió al Almacén el 10-04-2020  17:54:03
+admin Accedió al Almacén el 10-04-2020  17:56:15
+admin Accedió al Almacén el 10-04-2020  17:56:59
+admin Accedió al Almacén el 10-04-2020  17:58:47
+Cliente pepitas Creado el 10-04-2020  17:58:53
+admin Accedió a Gestion de Clientes el 10-04-2020  18:39:32
+admin Accedió a Gestion de Clientes el 10-04-2020  18:41:40
+admin Accedió a Gestion de Clientes el 10-04-2020  18:42:36
+admin Accedió a Gestion de Clientes el 10-04-2020  18:43:43
+admin Accedió a Gestion de Clientes el 10-04-2020  18:44:40
+admin Accedió a Gestion de Clientes el 10-04-2020  18:46:41
+Cliente perico Creado el 10-04-2020  18:46:46
+admin Accedió a Gestion de Clientes el 10-04-2020  19:51:05
+admin Accedió a Gestion de Clientes el 10-04-2020  20:17:50
+admin Accedió a Gestion de Clientes el 10-04-2020  20:22:20
+admin Accedió a Gestion de Clientes el 10-04-2020  20:40:07
+admin Accedió a Gestion de Clientes el 10-04-2020  20:41:49
+admin Accedió a Gestion de Clientes el 10-04-2020  20:43:19
+admin Accedió a Gestion de Clientes el 10-04-2020  21:40:26
+admin Accedió a Gestion de Clientes el 10-04-2020  21:41:11
+admin Accedió a Gestion de Clientes el 10-04-2020  21:42:10
+Cliente santi Creado el 10-04-2020  21:42:16
+admin Accedió a Gestion de Clientes el 10-04-2020  22:53:46
+juan Creado el 10-04-2020  22:53:50
+admin Accedió al Departamento de Compras el 10-04-2020  23:23:47
+Se ha Mostrado la lista de proveedores el 10-04-2020  23:23:47
+admin Accedió al Departamento de Compras el 10-04-2020  23:24:50
+Se ha Mostrado la lista de proveedores el 10-04-2020  23:24:50
+admin Accedió al Departamento de Compras el 10-04-2020  23:26:52
+Se ha Mostrado la lista de proveedores el 10-04-2020  23:26:52
+admin Accedió al Departamento de Compras el 10-04-2020  23:52:26
+Se ha Mostrado la lista de proveedores el 10-04-2020  23:52:26
+admin Accedió al Departamento de Compras el 10-04-2020  23:52:56
+Se ha Mostrado la lista de proveedores el 10-04-2020  23:52:56
+admin Accedió al Departamento de Compras el 10-04-2020  23:53:17
+Se ha Mostrado la lista de proveedores el 10-04-2020  23:53:17
+admin Accedió al Departamento de Compras el 10-04-2020  23:53:43
+Se ha Mostrado la lista de proveedores el 10-04-2020  23:53:43
+admin Accedió al Almacén el 11-04-2020  00:10:53
+Se ha mostrardo la lista de productos el 11-04-2020  00:10:53
+admin Accedió al Almacén el 11-04-2020  00:11:27
+Se ha mostrardo la lista de productos el 11-04-2020  00:11:27
+admin Accedió al Almacén el 11-04-2020  00:11:47
+Se ha mostrardo la lista de productos el 11-04-2020  00:11:47
+admin Accedió a Gestion de Clientes el 11-04-2020  00:34:53
+Se ha mostrado la lista de clientes el 11-04-2020  00:34:53
+admin Accedió a Gestion de Clientes el 11-04-2020  00:35:05
+alfa Creado el 11-04-2020  00:35:13
+admin Accedió a Gestion de Clientes el 11-04-2020  00:46:17
+admin Accedió a Gestion de Clientes el 11-04-2020  00:48:53
+Cliente gama Creado el 11-04-2020  00:48:58
+admin Accedió a Gestion de Clientes el 11-04-2020  00:49:02
+Se ha mostrado la lista de clientes el 11-04-2020  00:49:02
+admin Accedió al Almacén el 11-04-2020  01:00:50
+Se ha mostrardo la lista de productos el 11-04-2020  01:00:50
+admin Accedió al Almacén el 11-04-2020  01:00:52
+admin Accedió al Almacén el 11-04-2020  01:13:13
+Se ha mostrardo la lista de productos el 11-04-2020  01:13:13
+admin Accedió al Almacén el 11-04-2020  01:13:20
+Se ha mostrardo la lista de productos el 11-04-2020  01:13:20
+Producto  Eliminado el 11-04-2020  01:13:28
+admin Accedió al Almacén el 11-04-2020  01:13:36
+Se ha mostrardo la lista de productos el 11-04-2020  01:13:36
+admin Accedió al Almacén el 11-04-2020  01:17:31
+Se ha mostrardo la lista de productos el 11-04-2020  01:17:31
+admin Accedió al Almacén el 11-04-2020  01:17:33
+Producto peras Creado el 11-04-2020  01:17:40
+admin Accedió al Almacén el 11-04-2020  01:22:15
+Se ha mostrardo la lista de productos el 11-04-2020  01:22:15
+admin Accedió al Almacén el 11-04-2020  01:22:24
+Se ha mostrardo la lista de productos el 11-04-2020  01:22:24
+admin Accedió a gestión de empleados el 11-04-2020  01:42:32
+Se ha mostrado la lista de empleados el 11-04-2020  01:42:32
+admin Accedió a gestión de empleados el 11-04-2020  01:52:18
+Se ha mostrado la lista de empleados el 11-04-2020  01:52:18
+admin Accedió a gestión de empleados el 11-04-2020  01:53:11
+Se ha mostrado la lista de empleados el 11-04-2020  01:53:11
+admin Accedió a gestión de empleados el 11-04-2020  02:02:58
+Se ha mostrado la lista de empleados el 11-04-2020  02:02:58
+admin Accedió a gestión de empleados el 11-04-2020  02:04:05
+Se ha mostrado la lista de empleados el 11-04-2020  02:04:05
+admin Accedió a gestión de empleados el 11-04-2020  02:04:44
+Se ha mostrado la lista de empleados el 11-04-2020  02:04:44
+admin Accedió a gestión de empleados el 11-04-2020  02:04:46
+Empleado ju Creado el 11-04-2020  02:04:55
+admin Accedió a gestión de empleados el 11-04-2020  02:04:57
+Se ha mostrado la lista de empleados el 11-04-2020  02:04:57
+admin Accedió a gestión de empleados el 11-04-2020  02:05:48
+Se ha mostrado la lista de empleados el 11-04-2020  02:05:48
+admin Accedió al Departamento de Compras el 11-04-2020  02:11:35
+Proveedor provencio Creado el 11-04-2020  02:11:41
+admin Accedió al Departamento de Compras el 11-04-2020  02:11:46
+Se ha Mostrado la lista de proveedores el 11-04-2020  02:11:46
+Se ha mostrardo la lista de productos el 11-04-2020  02:11:53
+admin Accedió al Almacén el 11-04-2020  02:21:25
+Se ha mostrardo la lista de productos el 11-04-2020  02:21:25
+admin Accedió al Almacén el 11-04-2020  02:21:32
+Producto manzanas Creado el 11-04-2020  02:21:41
+admin Accedió al Almacén el 11-04-2020  02:21:44
+Se ha mostrardo la lista de productos el 11-04-2020  02:21:44
+admin Accedió al Almacén el 11-04-2020  17:14:04
+Se ha mostrardo la lista de productos el 11-04-2020  17:14:04
+admin Accedió al Almacén el 11-04-2020  17:36:31
+Se ha mostrardo la lista de productos el 11-04-2020  17:36:31
+admin Accedió al Almacén el 11-04-2020  17:36:35
+Se ha mostrardo la lista de productos el 11-04-2020  17:36:35
+admin Accedió al Almacén el 11-04-2020  17:39:35
+Producto melocotones Creado el 11-04-2020  17:39:43
+admin Accedió al Almacén el 11-04-2020  17:39:46
+Se ha mostrardo la lista de productos el 11-04-2020  17:39:46
+admin Accedió al Almacén el 11-04-2020  17:40:57
+Producto uvas Creado el 11-04-2020  17:41:03
+admin Accedió al Almacén el 11-04-2020  17:41:05
+Se ha mostrardo la lista de productos el 11-04-2020  17:41:05
+melocotones Eliminado el 11-04-2020  17:41:10
+admin Accedió al Almacén el 11-04-2020  17:41:20
+Se ha mostrardo la lista de productos el 11-04-2020  17:41:20
+admin Accedió a gestión de empleados el 11-04-2020  18:25:01
+Se ha mostrado la lista de empleados el 11-04-2020  18:25:01
+admin Accedió a gestión de empleados el 11-04-2020  18:25:09
+admin Accedió a gestión de empleados el 11-04-2020  18:29:03
+Se ha mostrado la lista de empleados el 11-04-2020  18:29:03
+admin Accedió a gestión de empleados el 11-04-2020  18:29:05
+Empleado pikachu Creado el 11-04-2020  18:29:29
+admin Accedió a gestión de empleados el 11-04-2020  18:29:45
+Se ha mostrado la lista de empleados el 11-04-2020  18:29:45
+admin Accedió a gestión de empleados el 11-04-2020  18:29:54
+Se ha mostrado la lista de empleados el 11-04-2020  18:29:54
+admin Accedió a gestión de empleados el 11-04-2020  18:37:46
+Se ha mostrado la lista de empleados el 11-04-2020  18:37:46
+admin Accedió a gestión de empleados el 11-04-2020  18:37:48
+Empleado bulbasur Creado el 11-04-2020  18:37:55
+admin Accedió a gestión de empleados el 11-04-2020  18:37:59
+Se ha mostrado la lista de empleados el 11-04-2020  18:37:59
+admin Accedió a gestión de empleados el 11-04-2020  18:38:05
+Se ha mostrado la lista de empleados el 11-04-2020  18:38:05
+admin Accedió a gestión de empleados el 11-04-2020  18:42:33
+Se ha mostrado la lista de empleados el 11-04-2020  18:42:33
+Empleado bulbasur Eliminado el 11-04-2020  18:42:35
+admin Accedió a gestión de empleados el 11-04-2020  18:42:38
+Se ha mostrado la lista de empleados el 11-04-2020  18:42:38
+admin Accedió al Almacén el 11-04-2020  19:05:50
+Producto limones Creado el 11-04-2020  19:05:55
+admin Accedió al Almacén el 11-04-2020  19:06:02
+Se ha mostrardo la lista de productos el 11-04-2020  19:06:02
+admin Accedió al Almacén el 11-04-2020  19:06:06
+Se ha mostrardo la lista de productos el 11-04-2020  19:06:06
+uvas Eliminado el 11-04-2020  19:06:08
+admin Accedió al Almacén el 11-04-2020  19:06:11
+Se ha mostrardo la lista de productos el 11-04-2020  19:06:11
+admin Accedió a Gestion de Clientes el 11-04-2020  19:07:50
+Cliente pidgeon Creado el 11-04-2020  19:08:02
+admin Accedió a Gestion de Clientes el 11-04-2020  19:08:07
+Se ha mostrado la lista de clientes el 11-04-2020  19:08:07
+admin Accedió a Gestion de Clientes el 11-04-2020  19:20:42
+admin Accedió a Gestion de Clientes el 11-04-2020  19:20:48
+Cliente cliente2 Creado el 11-04-2020  19:20:51
+admin Accedió a Gestion de Clientes el 11-04-2020  19:20:55
+Se ha mostrado la lista de clientes el 11-04-2020  19:20:55
+admin Accedió al Departamento de Compras el 11-04-2020  19:30:29
+Se ha Mostrado la lista de proveedores el 11-04-2020  19:30:29
+admin Accedió al Departamento de Compras el 11-04-2020  19:31:26
+Se ha Mostrado la lista de proveedores el 11-04-2020  19:31:26
+admin Accedió al Departamento de Compras el 11-04-2020  19:37:58
+Se ha Mostrado la lista de proveedores el 11-04-2020  19:37:58
+admin Accedió al Departamento de Compras el 11-04-2020  19:46:19
+Se ha Mostrado la lista de proveedores el 11-04-2020  19:46:19
+admin Accedió al Departamento de Compras el 11-04-2020  19:47:03
+Se ha Mostrado la lista de proveedores el 11-04-2020  19:47:03
+Se ha mostrardo la lista de productos el 11-04-2020  19:47:04
+admin Accedió al Almacén el 11-04-2020  21:05:33
+admin Accedió al Almacén el 11-04-2020  21:07:41
+admin Accedió al Almacén el 11-04-2020  21:07:45
+admin Accedió al Almacén el 11-04-2020  21:08:40
+admin Accedió al Almacén el 11-04-2020  21:15:40
+admin Accedió al Almacén el 11-04-2020  21:16:23
+Producto bananas Creado el 11-04-2020  21:16:35
+admin Accedió al Almacén el 11-04-2020  21:26:18
+admin Accedió al Almacén el 11-04-2020  21:27:05
+admin Accedió al Almacén el 11-04-2020  21:27:51
+Producto cinve Creado el 11-04-2020  21:27:56
+admin Accedió al Almacén el 11-04-2020  21:28:01
+admin Accedió al Almacén el 11-04-2020  21:31:01
+Producto tyu Creado el 11-04-2020  21:31:09
+admin Accedió al Almacén el 11-04-2020  21:31:23
+Se ha mostrardo la lista de productos el 11-04-2020  21:31:23
+admin Accedió al Almacén el 11-04-2020  21:31:34
+Producto hielo Creado el 11-04-2020  21:31:42
+admin Accedió al Almacén el 11-04-2020  21:33:06
+admin Accedió al Almacén el 11-04-2020  21:35:01
+Se ha mostrardo la lista de productos el 11-04-2020  21:35:01
+admin Accedió al Almacén el 11-04-2020  21:35:04
+admin Accedió al Almacén el 11-04-2020  21:35:13
+Se ha mostrardo la lista de productos el 11-04-2020  21:35:13
+admin Accedió al Almacén el 11-04-2020  21:38:00
+Se ha mostrardo la lista de productos el 11-04-2020  21:38:00
+admin Accedió al Almacén el 11-04-2020  21:38:03
+Se ha mostrado la lista de clientes el 12-04-2020  06:14:19
+Cliente admin Creado el 12-04-2020  06:14:19
+Se ha mostrado la lista de clientes el 12-04-2020  06:14:48
+Cliente admin Creado el 12-04-2020  06:14:48
+Se ha mostrado la lista de clientes el 12-04-2020  06:20:22
+Cliente bb Creado el 12-04-2020  06:20:22
+Se ha mostrado la lista de empleados el 12-04-2020  06:20:25
+Empleado dd Creado el 12-04-2020  06:20:25
+Se ha mostrado la lista de clientes el 12-04-2020  06:23:28
+Cliente hh Creado el 12-04-2020  06:23:28
+Se ha mostrado la lista de empleados el 12-04-2020  06:23:31
+Empleado hh Creado el 12-04-2020  06:23:31
+admin Accedió al Departamento de Compras el 12-04-2020  06:26:22
+admin Accedió al Departamento de Compras el 12-04-2020  06:27:13
+admin Accedió al Departamento de Compras el 12-04-2020  06:29:13
+admin Accedió al Departamento de Compras el 12-04-2020  06:29:41
+admin Accedió al Departamento de Compras el 12-04-2020  06:31:53
+admin Accedió al Departamento de Compras el 12-04-2020  06:32:35
+Se ha mostrado la lista de Proveedores el 12-04-2020  06:32:35
+admin Accedió al Departamento de Compras el 12-04-2020  06:41:00
+Se ha mostrado la lista de Proveedores el 12-04-2020  06:41:00
+admin Accedió al Departamento de Compras el 12-04-2020  06:41:42
+Se ha mostrado la lista de Proveedores el 12-04-2020  06:41:42
+admin Accedió al Departamento de Compras el 12-04-2020  06:42:25
+Se ha mostrado la lista de Proveedores el 12-04-2020  06:42:25
+admin Accedió al Almacén el 12-04-2020  20:09:25
+admin Accedió al Almacén el 12-04-2020  20:13:14
+Se ha mostrardo la lista de productos el 12-04-2020  20:13:14
+admin Accedió al Almacén el 12-04-2020  20:20:12
+Se ha mostrardo la lista de productos el 12-04-2020  20:20:12
+admin Accedió al Almacén el 12-04-2020  20:22:32
+Se ha mostrardo la lista de productos el 12-04-2020  20:22:32
+admin Accedió al Almacén el 12-04-2020  20:24:19
+Se ha mostrardo la lista de productos el 12-04-2020  20:24:19
+admin Accedió al Almacén el 12-04-2020  20:24:28
+Se ha mostrardo la lista de productos el 12-04-2020  20:24:28
+admin Accedió al Almacén el 12-04-2020  20:26:29
+Se ha mostrardo la lista de productos el 12-04-2020  20:26:29
+admin Accedió al Almacén el 12-04-2020  20:26:52
+Se ha mostrardo la lista de productos el 12-04-2020  20:26:52
+admin Accedió al Almacén el 12-04-2020  20:28:33
+Se ha mostrardo la lista de productos el 12-04-2020  20:28:33
+ADMIN Accedió al Almacén el 12-04-2020  21:01:42
+Se ha mostrardo la lista de productos el 12-04-2020  21:01:42
+admin Accedió al Almacén el 12-04-2020  21:03:41
+Se ha mostrardo la lista de productos el 12-04-2020  21:03:41
+admin Accedió al Almacén el 12-04-2020  21:04:22
+Se ha mostrardo la lista de productos el 12-04-2020  21:04:22
+cinve Eliminado el 12-04-2020  21:04:23
+admin Accedió al Almacén el 12-04-2020  21:09:33
+Se ha mostrardo la lista de productos el 12-04-2020  21:09:33
+cinve Eliminado el 12-04-2020  21:09:42
+admin Accedió al Almacén el 12-04-2020  21:10:18
+Se ha mostrardo la lista de productos el 12-04-2020  21:10:18
+cinve Eliminado el 12-04-2020  21:10:20
+admin Accedió al Almacén el 12-04-2020  21:10:23
+Se ha mostrardo la lista de productos el 12-04-2020  21:10:23
+admin Accedió al Almacén el 12-04-2020  21:12:18
+Se ha mostrardo la lista de productos el 12-04-2020  21:12:18
+tyu Eliminado el 12-04-2020  21:12:22
+Se ha mostrardo la lista de productos el 12-04-2020  21:12:22
+admin Accedió al Almacén el 12-04-2020  21:13:35
+Se ha mostrardo la lista de productos el 12-04-2020  21:13:35
+cinve Eliminado el 12-04-2020  21:13:39
+Se ha mostrardo la lista de productos el 12-04-2020  21:13:39
+admin Accedió al Almacén el 12-04-2020  21:14:23
+Se ha mostrardo la lista de productos el 12-04-2020  21:14:28
+Producto peras Creado el 12-04-2020  21:14:28
+admin Accedió al Almacén el 12-04-2020  21:14:32
+Se ha mostrardo la lista de productos el 12-04-2020  21:14:32
+peras Eliminado el 12-04-2020  21:14:49
+Se ha mostrardo la lista de productos el 12-04-2020  21:14:49
+admin Accedió al Almacén el 12-04-2020  21:21:22
+admin Accedió al Almacén el 12-04-2020  21:22:06
+admin Accedió al Almacén el 12-04-2020  21:22:52
+admin Accedió al Almacén el 12-04-2020  21:23:24
+admin Accedió al Almacén el 12-04-2020  21:26:52
+admin Accedió al Almacén el 12-04-2020  21:29:00
+Se ha mostrardo la lista de productos el 12-04-2020  21:29:08
+Producto pendientes Creado el 12-04-2020  21:29:08
+admin Accedió al Almacén el 12-04-2020  21:29:12
+Se ha mostrardo la lista de productos el 12-04-2020  21:29:12
+admin Accedió al Almacén el 12-04-2020  22:09:07
+admin Accedió al Almacén el 12-04-2020  22:10:11
+Se ha mostrardo la lista de productos el 12-04-2020  22:10:16
+Producto lereles Creado el 12-04-2020  22:10:16
+admin Accedió al Almacén el 12-04-2020  22:10:56
+Se ha mostrardo la lista de productos el 12-04-2020  22:10:56
+admin Accedió al Almacén el 12-04-2020  22:11:02
+Se ha mostrardo la lista de productos el 12-04-2020  22:11:02
+tyu Eliminado el 12-04-2020  22:11:06
+Se ha mostrardo la lista de productos el 12-04-2020  22:11:06
+admin Accedió al Departamento de Compras el 12-04-2020  22:12:17
+admin Accedió al Departamento de Compras el 12-04-2020  22:13:19
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:13:19
+admin Accedió al Departamento de Compras el 12-04-2020  22:15:14
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:15:14
+admin Accedió al Departamento de Compras el 12-04-2020  22:16:48
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:16:48
+Se ha mostrardo la lista de productos el 12-04-2020  22:16:50
+Se ha mostrardo la lista de productos el 12-04-2020  22:17:19
+admin Accedió al Departamento de Compras el 12-04-2020  22:20:45
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:20:45
+Se ha mostrardo la lista de productos el 12-04-2020  22:20:47
+admin Accedió al Departamento de Compras el 12-04-2020  22:25:04
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:25:04
+Se ha mostrardo la lista de productos el 12-04-2020  22:25:06
+admin Accedió al Departamento de Compras el 12-04-2020  22:28:09
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:28:09
+Se ha mostrardo la lista de productos el 12-04-2020  22:28:11
+admin Accedió al Departamento de Compras el 12-04-2020  22:31:56
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:31:56
+Se ha mostrardo la lista de productos el 12-04-2020  22:31:58
+admin Accedió al Departamento de Compras el 12-04-2020  22:34:06
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:34:06
+Se ha mostrardo la lista de productos el 12-04-2020  22:34:08
+admin Accedió al Departamento de Compras el 12-04-2020  22:36:26
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:36:26
+Se ha mostrardo la lista de productos el 12-04-2020  22:36:28
+admin Accedió al Departamento de Compras el 12-04-2020  22:39:19
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:39:19
+Se ha mostrardo la lista de productos el 12-04-2020  22:39:21
+admin Accedió al Departamento de Compras el 12-04-2020  22:42:55
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:42:55
+Se ha mostrardo la lista de productos el 12-04-2020  22:42:57
+admin Accedió al Departamento de Compras el 12-04-2020  22:43:18
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:43:18
+Se ha mostrardo la lista de productos el 12-04-2020  22:43:20
+admin Accedió al Departamento de Compras el 12-04-2020  22:45:38
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:45:38
+Se ha mostrardo la lista de productos el 12-04-2020  22:45:40
+admin Accedió al Departamento de Compras el 12-04-2020  22:47:13
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:47:13
+Se ha mostrardo la lista de productos el 12-04-2020  22:47:15
+admin Accedió al Departamento de Compras el 12-04-2020  22:48:05
+Se ha mostrado la lista de Proveedores el 12-04-2020  22:48:05
+Se ha mostrardo la lista de productos el 12-04-2020  22:48:06
+admin Accedió al Departamento de Compras el 12-04-2020  23:11:11
+Se ha mostrado la lista de Proveedores el 12-04-2020  23:11:11
+Se ha mostrardo la lista de productos el 12-04-2020  23:11:14
+admin Accedió al Departamento de Compras el 12-04-2020  23:16:34
+Se ha mostrado la lista de Proveedores el 12-04-2020  23:16:34
+Se ha mostrardo la lista de productos el 12-04-2020  23:16:36
+admin Accedió al Departamento de Compras el 12-04-2020  23:19:05
+Se ha mostrado la lista de Proveedores el 12-04-2020  23:19:05
+Se ha mostrardo la lista de productos el 12-04-2020  23:19:13
+admin Accedió al Departamento de Compras el 12-04-2020  23:24:44
+Se ha mostrado la lista de Proveedores el 12-04-2020  23:24:44
+Se ha mostrardo la lista de productos el 12-04-2020  23:24:50
+admin Accedió al Departamento de Compras el 12-04-2020  23:29:46
+Se ha mostrado la lista de Proveedores el 12-04-2020  23:29:46
+Se ha mostrardo la lista de productos el 12-04-2020  23:29:48
+admin Accedió al Departamento de Compras el 12-04-2020  23:31:33
+Se ha mostrado la lista de Proveedores el 12-04-2020  23:31:33
+Se ha mostrardo la lista de productos el 12-04-2020  23:31:37
+admin Accedió al Departamento de Compras el 13-04-2020  00:03:18
+Se ha mostrado la lista de Proveedores el 13-04-2020  00:03:19
+Se ha mostrardo la lista de productos el 13-04-2020  00:03:23
+Se ha mostrardo la lista de productos el 13-04-2020  00:03:30
+admin Accedió al Departamento de Compras el 13-04-2020  00:06:10
+Se ha mostrado la lista de Proveedores el 13-04-2020  00:06:10
+Se ha mostrardo la lista de productos el 13-04-2020  00:06:12
+Se ha mostrardo la lista de productos el 13-04-2020  00:06:21
+Se ha mostrardo la lista de productos el 13-04-2020  00:06:26
+admin Accedió al Departamento de Compras el 13-04-2020  01:00:51
+admin Accedió al Departamento de Compras el 13-04-2020  01:03:23
+admin Accedió al Departamento de Compras el 13-04-2020  01:04:10
+admin Accedió al Departamento de Compras el 13-04-2020  01:05:32
+Se ha mostrardo la lista de productos el 13-04-2020  01:05:32
+admin Accedió al Almacén el 13-04-2020  02:01:15
+Se ha mostrardo la lista de productos el 13-04-2020  02:01:15
+admin Accedió al Departamento de Compras el 13-04-2020  02:01:38
+Se ha mostrardo la lista de productos el 13-04-2020  02:01:38
+Se ha creado una orden de compra el 13-04-2020  02:01:38
+admin Accedió al Departamento de Compras el 13-04-2020  02:17:07
+Se ha mostrardo la lista de productos el 13-04-2020  02:17:07
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:17:07
+admin Accedió al Departamento de Compras el 13-04-2020  02:18:52
+Se ha mostrardo la lista de productos el 13-04-2020  02:18:52
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:18:52
+admin Accedió al Departamento de Compras el 13-04-2020  02:20:39
+Se ha mostrardo la lista de productos el 13-04-2020  02:20:39
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:20:39
+Se ha creado una orden de compra el 13-04-2020  02:20:39
+admin Accedió al Departamento de Compras el 13-04-2020  02:22:46
+Se ha mostrardo la lista de productos el 13-04-2020  02:22:46
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:22:46
+Se ha creado una orden de compra el 13-04-2020  02:22:46
+admin Accedió al Departamento de Compras el 13-04-2020  02:25:03
+Se ha mostrardo la lista de productos el 13-04-2020  02:25:03
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:25:03
+Se ha creado una orden de compra el 13-04-2020  02:25:03
+admin Accedió al Departamento de Compras el 13-04-2020  02:28:12
+Se ha mostrardo la lista de productos el 13-04-2020  02:28:12
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:28:12
+Se ha creado una orden de compra el 13-04-2020  02:28:12
+admin Accedió al Departamento de Compras el 13-04-2020  02:29:26
+Se ha mostrardo la lista de productos el 13-04-2020  02:29:26
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:29:26
+Se ha creado una orden de compra el 13-04-2020  02:29:26
+admin Accedió al Departamento de Compras el 13-04-2020  02:33:48
+Se ha mostrardo la lista de productos el 13-04-2020  02:33:48
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:33:48
+admin Accedió al Departamento de Compras el 13-04-2020  02:36:10
+Se ha mostrardo la lista de productos el 13-04-2020  02:36:10
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:36:10
+Se ha creado una orden de compra el 13-04-2020  02:36:48
+admin Accedió al Departamento de Compras el 13-04-2020  02:37:08
+Se ha mostrardo la lista de productos el 13-04-2020  02:37:08
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:37:08
+admin Accedió al Departamento de Compras el 13-04-2020  02:44:18
+Se ha mostrardo la lista de productos el 13-04-2020  02:44:18
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:44:18
+admin Accedió al Departamento de Compras el 13-04-2020  02:45:20
+Se ha mostrardo la lista de productos el 13-04-2020  02:45:20
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:45:20
+admin Accedió al Departamento de Compras el 13-04-2020  02:46:32
+Se ha mostrardo la lista de productos el 13-04-2020  02:46:32
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:46:33
+admin Accedió al Departamento de Compras el 13-04-2020  02:47:38
+Se ha mostrardo la lista de productos el 13-04-2020  02:47:38
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:47:38
+admin Accedió al Departamento de Compras el 13-04-2020  02:48:20
+Se ha mostrardo la lista de productos el 13-04-2020  02:48:20
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:48:20
+admin Accedió al Departamento de Compras el 13-04-2020  02:49:08
+Se ha mostrardo la lista de productos el 13-04-2020  02:49:08
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:49:08
+admin Accedió al Departamento de Compras el 13-04-2020  02:50:05
+Se ha mostrardo la lista de productos el 13-04-2020  02:50:05
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:50:05
+admin Accedió al Departamento de Compras el 13-04-2020  02:50:35
+Se ha mostrardo la lista de productos el 13-04-2020  02:50:35
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:50:35
+Se ha creado una orden de compra el 13-04-2020  02:50:35
+admin Accedió al Departamento de Compras el 13-04-2020  02:50:57
+Se ha mostrardo la lista de productos el 13-04-2020  02:50:57
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:50:57
+Se ha creado una orden de compra el 13-04-2020  02:50:57
+admin Accedió al Departamento de Compras el 13-04-2020  02:51:19
+Se ha mostrardo la lista de productos el 13-04-2020  02:51:19
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:51:19
+admin Accedió al Departamento de Compras el 13-04-2020  02:54:22
+Se ha mostrardo la lista de productos el 13-04-2020  02:54:22
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:54:22
+Se ha creado una orden de compra el 13-04-2020  02:54:22
+admin Accedió al Departamento de Compras el 13-04-2020  02:55:56
+Se ha mostrardo la lista de productos el 13-04-2020  02:55:56
+Se ha mostrado la lista de Proveedores el 13-04-2020  02:55:56
+admin Accedió al Departamento de Compras el 13-04-2020  03:00:37
+Se ha mostrardo la lista de productos el 13-04-2020  03:00:37
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:00:37
+Se ha creado una orden de compra el 13-04-2020  03:09:37
+admin Accedió al Departamento de Compras el 13-04-2020  03:11:07
+Se ha mostrardo la lista de productos el 13-04-2020  03:11:07
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:11:07
+admin Accedió al Departamento de Compras el 13-04-2020  03:12:18
+Se ha mostrardo la lista de productos el 13-04-2020  03:12:18
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:12:18
+admin Accedió al Departamento de Compras el 13-04-2020  03:14:25
+Se ha mostrardo la lista de productos el 13-04-2020  03:14:25
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:14:25
+Se ha creado una orden de compra el 13-04-2020  03:14:25
+admin Accedió al Departamento de Compras el 13-04-2020  03:15:33
+Se ha mostrardo la lista de productos el 13-04-2020  03:15:33
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:15:33
+Se ha creado una orden de compra el 13-04-2020  03:15:33
+admin Accedió al Departamento de Compras el 13-04-2020  03:20:07
+Se ha mostrardo la lista de productos el 13-04-2020  03:20:07
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:20:07
+admin Accedió al Departamento de Compras el 13-04-2020  03:26:03
+Se ha mostrardo la lista de productos el 13-04-2020  03:26:03
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:26:03
+Se ha creado una orden de compra el 13-04-2020  03:26:03
+admin Accedió al Departamento de Compras el 13-04-2020  03:27:20
+Se ha mostrardo la lista de productos el 13-04-2020  03:27:20
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:27:20
+Se ha creado una orden de compra el 13-04-2020  03:27:20
+admin Accedió al Departamento de Compras el 13-04-2020  03:29:38
+Se ha mostrardo la lista de productos el 13-04-2020  03:29:38
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:29:38
+Se ha creado una orden de compra el 13-04-2020  03:29:38
+admin Accedió al Departamento de Compras el 13-04-2020  03:30:21
+Se ha mostrardo la lista de productos el 13-04-2020  03:30:21
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:30:21
+Se ha creado una orden de compra el 13-04-2020  03:30:21
+admin Accedió al Departamento de Compras el 13-04-2020  03:32:00
+Se ha mostrardo la lista de productos el 13-04-2020  03:32:00
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:32:00
+Se ha creado una orden de compra el 13-04-2020  03:32:00
+admin Accedió al Departamento de Compras el 13-04-2020  03:37:57
+Se ha mostrardo la lista de productos el 13-04-2020  03:37:57
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:37:57
+Se ha creado una orden de compra el 13-04-2020  03:37:57
+admin Accedió al Departamento de Compras el 13-04-2020  03:42:22
+Se ha mostrardo la lista de productos el 13-04-2020  03:42:22
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:42:22
+Se ha creado una orden de compra el 13-04-2020  03:42:22
+admin Accedió al Departamento de Compras el 13-04-2020  03:43:47
+Se ha mostrardo la lista de productos el 13-04-2020  03:43:47
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:43:47
+admin Accedió al Departamento de Compras el 13-04-2020  03:48:49
+Se ha mostrardo la lista de productos el 13-04-2020  03:48:49
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:48:49
+admin Accedió al Departamento de Compras el 13-04-2020  03:58:13
+Se ha mostrardo la lista de productos el 13-04-2020  03:58:13
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:58:13
+admin Accedió al Departamento de Compras el 13-04-2020  03:58:34
+Se ha mostrardo la lista de productos el 13-04-2020  03:58:34
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:58:34
+Se ha creado una orden de compra el 13-04-2020  03:58:34
+admin Accedió al Departamento de Compras el 13-04-2020  03:59:57
+Se ha mostrardo la lista de productos el 13-04-2020  03:59:57
+Se ha mostrado la lista de Proveedores el 13-04-2020  03:59:57
+Se ha creado una orden de compra el 13-04-2020  03:59:57
+admin Accedió al Departamento de Compras el 13-04-2020  04:13:18
+Se ha mostrardo la lista de productos el 13-04-2020  04:13:18
+Se ha mostrado la lista de Proveedores el 13-04-2020  04:13:18
+Se ha creado una orden de compra el 13-04-2020  04:13:18
+admin Accedió al Departamento de Compras el 13-04-2020  04:15:30
+Se ha mostrardo la lista de productos el 13-04-2020  04:15:30
+Se ha mostrado la lista de Proveedores el 13-04-2020  04:15:30
+Se ha creado una orden de compra el 13-04-2020  04:15:30
+admin Accedió al Departamento de Compras el 13-04-2020  04:17:24
+Se ha mostrardo la lista de productos el 13-04-2020  04:17:24
+Se ha mostrado la lista de Proveedores el 13-04-2020  04:17:24
+Se ha creado una orden de compra el 13-04-2020  04:17:24
+admin Accedió al Departamento de Compras el 13-04-2020  04:20:36
+Se ha mostrardo la lista de productos el 13-04-2020  04:20:36
+Se ha mostrado la lista de Proveedores el 13-04-2020  04:20:36
+Se ha creado una orden de compra el 13-04-2020  04:20:36
+admin Accedió al Departamento de Compras el 13-04-2020  04:21:19
+Se ha mostrardo la lista de productos el 13-04-2020  04:21:19
+Se ha mostrado la lista de Proveedores el 13-04-2020  04:21:19
+Se ha creado una orden de compra el 13-04-2020  04:21:19
+admin Accedió al Departamento de Compras el 13-04-2020  21:02:55
+Se ha mostrardo la lista de productos el 13-04-2020  21:02:55
+Se ha mostrado la lista de Proveedores el 13-04-2020  21:02:55
+Se ha creado una orden de compra el 13-04-2020  21:02:55
+admin Accedió al Departamento de Compras el 13-04-2020  22:38:26
+Se ha mostrardo la lista de productos el 13-04-2020  22:38:26
+Se ha mostrado la lista de Proveedores el 13-04-2020  22:38:26
+Se ha creado una orden de compra el 13-04-2020  22:38:26
+admin Accedió al Departamento de Compras el 13-04-2020  22:39:11
+Se ha mostrardo la lista de productos el 13-04-2020  22:39:11
+Se ha mostrado la lista de Proveedores el 13-04-2020  22:39:11
+Se ha creado una orden de compra el 13-04-2020  22:39:11
+admin Accedió al Departamento de Compras el 13-04-2020  22:42:24
+Se ha mostrardo la lista de productos el 13-04-2020  22:42:24
+Se ha mostrado la lista de Proveedores el 13-04-2020  22:42:24
+Se ha creado una orden de compra el 13-04-2020  22:42:24
+admin Accedió al Departamento de Compras el 13-04-2020  23:25:05
+Se ha mostrardo la lista de productos el 13-04-2020  23:25:05
+Se ha mostrado la lista de Proveedores el 13-04-2020  23:25:05
+Se ha creado una orden de compra el 13-04-2020  23:25:05
+admin Accedió al Departamento de Ventas el 13-04-2020  23:25:31
+admin Accedió al Departamento de Compras el 13-04-2020  23:25:48
+Se ha mostrardo la lista de productos el 13-04-2020  23:25:48
+Se ha mostrado la lista de Proveedores el 13-04-2020  23:25:48
+Se ha creado una orden de compra el 13-04-2020  23:25:48
+Albaran: 516881 Eliminado el 13-04-2020  23:25:56
+admin Accedió al Departamento de Compras el 13-04-2020  23:26:02
+Se ha mostrardo la lista de productos el 13-04-2020  23:26:02
+Se ha mostrado la lista de Proveedores el 13-04-2020  23:26:02
+Se ha creado una orden de compra el 13-04-2020  23:26:02
+admin Accedió al Departamento de Compras el 13-04-2020  23:26:13
+Se ha mostrardo la lista de productos el 13-04-2020  23:26:13
+Se ha mostrado la lista de Proveedores el 13-04-2020  23:26:13
+Se ha creado una orden de compra el 13-04-2020  23:26:13
+Albaran: 613042020000340 Eliminado el 13-04-2020  23:26:31
+admin Accedió al Departamento de Compras el 13-04-2020  23:26:35
+Se ha mostrardo la lista de productos el 13-04-2020  23:26:35
+Se ha mostrado la lista de Proveedores el 13-04-2020  23:26:35
+Se ha creado una orden de compra el 13-04-2020  23:26:35
+admin Accedió al Departamento de Compras el 14-04-2020  01:08:54
+Se ha mostrado la lista de Proveedores el 14-04-2020  01:08:54
+Se ha mostrardo la lista de productos el 14-04-2020  01:08:59
+Se ha mostrardo la lista de productos el 14-04-2020  01:09:08
+Se ha mostrardo la lista de productos el 14-04-2020  01:09:15
+Se ha mostrardo la lista de productos el 14-04-2020  01:09:24
+Se ha mostrardo la lista de productos el 14-04-2020  01:09:31
+Se ha mostrado la lista de Proveedores el 14-04-2020  01:09:31
+Se ha creado una lista nueva de compras el 14-04-2020  01:09:31
+Orden de compra 914042020010931 Creada el 14-04-2020  01:09:31
+admin Accedió al Departamento de Compras el 14-04-2020  01:12:00
+Se ha mostrado la lista de Proveedores el 14-04-2020  01:12:00
+Se ha mostrardo la lista de productos el 14-04-2020  01:12:05
+Se ha mostrardo la lista de productos el 14-04-2020  01:12:10
+Se ha mostrado la lista de Proveedores el 14-04-2020  01:12:10
+Se ha creado una lista nueva de compras el 14-04-2020  01:12:10
+Orden de compra 614042020011210 Creada el 14-04-2020  01:12:10
+admin Accedió al Departamento de Compras el 14-04-2020  01:14:20
+Se ha mostrado la lista de Proveedores el 14-04-2020  01:14:20
+Se ha mostrardo la lista de productos el 14-04-2020  01:14:22
+Se ha mostrardo la lista de productos el 14-04-2020  01:14:27
+Se ha mostrado la lista de Proveedores el 14-04-2020  01:14:27
+Se ha creado una lista nueva de compras el 14-04-2020  01:14:27
+Orden de compra 614042020011427 Creada el 14-04-2020  01:14:27
+admin Accedió al Departamento de Compras el 14-04-2020  01:16:11
+Se ha mostrado la lista de Proveedores el 14-04-2020  01:16:11
+Se ha mostrardo la lista de productos el 14-04-2020  01:16:13
+Se ha mostrardo la lista de productos el 14-04-2020  01:16:21
+Se ha mostrardo la lista de productos el 14-04-2020  01:16:30
+Se ha mostrardo la lista de productos el 14-04-2020  01:16:36
+Se ha mostrardo la lista de productos el 14-04-2020  01:16:43
+Se ha mostrado la lista de Proveedores el 14-04-2020  01:16:43
+Se ha creado una lista nueva de compras el 14-04-2020  01:16:43
+Orden de compra 614042020011643 Creada el 14-04-2020  01:16:43
+admin Accedió al Departamento de Compras el 14-04-2020  01:17:04
+Se ha mostrardo la lista de productos el 14-04-2020  01:17:04
+Se ha mostrado la lista de Proveedores el 14-04-2020  01:17:04
+Se ha creado una lista nueva de compras el 14-04-2020  01:17:04
+Albaran: 614042020011643 Eliminado el 14-04-2020  01:17:21
+admin Accedió al Departamento de Compras el 14-04-2020  01:17:29
+Se ha mostrardo la lista de productos el 14-04-2020  01:17:29
+Se ha mostrado la lista de Proveedores el 14-04-2020  01:17:29
+Se ha creado una lista nueva de compras el 14-04-2020  01:17:29
+admin Accedió al Departamento de Compras el 14-04-2020  01:17:48
+Se ha mostrado la lista de Proveedores el 14-04-2020  01:17:58
+Proveedor pikachu Creado el 14-04-2020  01:17:58
+admin Accedió al Departamento de Ventas el 14-04-2020  01:18:20
+Se ha mostrado la lista de clientes el 14-04-2020  01:18:20
+ADMIN Accedió al Departamento de Ventas el 14-04-2020  13:27:42
+Se ha mostrado la lista de clientes el 14-04-2020  13:27:42
+admin Accedió al Departamento de Ventas el 14-04-2020  13:30:33
+Se ha mostrado la lista de clientes el 14-04-2020  13:30:33
+Se ha mostrardo la lista de productos el 14-04-2020  13:30:38
+Se ha mostrardo la lista de productos el 14-04-2020  13:30:47
+admin Accedió al Departamento de Ventas el 14-04-2020  13:31:55
+Se ha mostrado la lista de clientes el 14-04-2020  13:31:55
+Se ha mostrardo la lista de productos el 14-04-2020  13:32:02
+Se ha mostrardo la lista de productos el 14-04-2020  13:32:07
+Se ha mostrardo la lista de productos el 14-04-2020  13:32:13
+Se ha mostrado la lista de clientes el 14-04-2020  13:32:13
+Se ha creado una lista nueva de ventas el 14-04-2020  13:32:13
+Venta 1614042020133213 Creada el 14-04-2020  13:32:13
+admin Accedió al Departamento de Ventas el 14-04-2020  13:32:55
+Se ha mostrado la lista de clientes el 14-04-2020  13:32:55
+Se ha mostrardo la lista de productos el 14-04-2020  13:32:58
+Se ha mostrardo la lista de productos el 14-04-2020  13:33:04
+Se ha mostrardo la lista de productos el 14-04-2020  13:33:09
+Se ha mostrardo la lista de productos el 14-04-2020  13:33:16
+Se ha mostrado la lista de clientes el 14-04-2020  13:33:16
+Se ha creado una lista nueva de ventas el 14-04-2020  13:33:16
+Venta 814042020133316 Creada el 14-04-2020  13:33:16
+admin Accedió al Departamento de Ventas el 14-04-2020  13:33:24
+Se ha mostrardo la lista de productos el 14-04-2020  13:33:24
+Se ha mostrado la lista de clientes el 14-04-2020  13:33:24
+Se ha creado una lista nueva de ventas el 14-04-2020  13:33:24
+admin Accedió al Departamento de Ventas el 14-04-2020  13:33:31
+Se ha mostrardo la lista de productos el 14-04-2020  13:33:31
+Se ha mostrado la lista de clientes el 14-04-2020  13:33:31
+Se ha creado una lista nueva de ventas el 14-04-2020  13:33:31
+admin Accedió al Departamento de Ventas el 14-04-2020  13:35:41
+Se ha mostrado la lista de clientes el 14-04-2020  13:35:41
+Se ha mostrardo la lista de productos el 14-04-2020  13:35:43
+Se ha mostrardo la lista de productos el 14-04-2020  13:35:47
+Se ha mostrado la lista de clientes el 14-04-2020  13:35:47
+Se ha creado una lista nueva de ventas el 14-04-2020  13:35:47
+Venta 614042020133547 Creada el 14-04-2020  13:35:47
+admin Accedió al Departamento de Ventas el 14-04-2020  13:35:52
+Se ha mostrardo la lista de productos el 14-04-2020  13:35:52
+Se ha mostrado la lista de clientes el 14-04-2020  13:35:52
+Se ha creado una lista nueva de ventas el 14-04-2020  13:35:52
+admin Accedió al Departamento de Ventas el 14-04-2020  13:36:32
+Se ha mostrado la lista de clientes el 14-04-2020  13:36:32
+Se ha mostrardo la lista de productos el 14-04-2020  13:36:34
+Se ha mostrardo la lista de productos el 14-04-2020  13:36:44
+Se ha mostrado la lista de clientes el 14-04-2020  13:36:44
+Se ha creado una lista nueva de ventas el 14-04-2020  13:36:44
+Venta 614042020133644 Creada el 14-04-2020  13:36:44
+admin Accedió al Departamento de Ventas el 14-04-2020  13:38:12
+Se ha mostrado la lista de clientes el 14-04-2020  13:38:12
+Se ha mostrardo la lista de productos el 14-04-2020  13:38:14
+Se ha mostrardo la lista de productos el 14-04-2020  13:38:19
+Se ha mostrado la lista de clientes el 14-04-2020  13:38:19
+Se ha creado una lista nueva de ventas el 14-04-2020  13:38:19
+Venta 614042020133819 Creada el 14-04-2020  13:38:19
+admin Accedió al Departamento de Ventas el 14-04-2020  13:38:25
+Se ha mostrardo la lista de productos el 14-04-2020  13:38:25
+Se ha mostrado la lista de clientes el 14-04-2020  13:38:25
+Se ha creado una lista nueva de ventas el 14-04-2020  13:38:25
+admin Accedió al Departamento de Ventas el 14-04-2020  13:47:34
+Se ha mostrardo la lista de productos el 14-04-2020  13:47:34
+Se ha mostrado la lista de clientes el 14-04-2020  13:47:34
+admin Accedió al Departamento de Ventas el 14-04-2020  13:49:08
+admin Accedió al Departamento de Ventas el 14-04-2020  13:49:57
+Se ha mostrardo la lista de productos el 14-04-2020  13:49:57
+Se ha mostrado la lista de clientes el 14-04-2020  13:49:57
+admin Accedió al Departamento de Ventas el 14-04-2020  13:50:58
+Se ha mostrardo la lista de productos el 14-04-2020  13:50:58
+Se ha mostrado la lista de clientes el 14-04-2020  13:50:58
+admin Accedió al Departamento de Ventas el 14-04-2020  13:51:53
+Se ha mostrardo la lista de productos el 14-04-2020  13:51:53
+Se ha mostrado la lista de clientes el 14-04-2020  13:51:53
+admin Accedió al Departamento de Ventas el 14-04-2020  13:53:48
+Se ha mostrardo la lista de productos el 14-04-2020  13:53:48
+Se ha mostrado la lista de clientes el 14-04-2020  13:53:48
+Se ha creado una lista nueva de ventas el 14-04-2020  13:53:48
+admin Accedió al Departamento de Ventas el 14-04-2020  13:54:19
+Se ha mostrardo la lista de productos el 14-04-2020  13:54:19
+Se ha mostrado la lista de clientes el 14-04-2020  13:54:19
+Se ha creado una lista nueva de ventas el 14-04-2020  13:54:19
+admin Accedió al Departamento de Ventas el 14-04-2020  13:54:46
+Se ha mostrardo la lista de productos el 14-04-2020  13:54:46
+Se ha mostrado la lista de clientes el 14-04-2020  13:54:46
+admin Accedió al Departamento de Ventas el 14-04-2020  13:55:52
+Se ha mostrardo la lista de productos el 14-04-2020  13:55:52
+Se ha mostrado la lista de clientes el 14-04-2020  13:55:52
+Se ha creado una lista nueva de ventas el 14-04-2020  13:55:52
+admin Accedió al Departamento de Ventas el 14-04-2020  13:56:08
+Se ha mostrardo la lista de productos el 14-04-2020  13:56:08
+Se ha mostrado la lista de clientes el 14-04-2020  13:56:08
+admin Accedió al Departamento de Ventas el 14-04-2020  13:57:21
+Se ha mostrardo la lista de productos el 14-04-2020  13:57:21
+Se ha mostrado la lista de clientes el 14-04-2020  13:57:21
+Se ha creado una lista nueva de ventas el 14-04-2020  13:57:21
+admin Accedió al Departamento de Ventas el 14-04-2020  13:57:42
+Se ha mostrado la lista de clientes el 14-04-2020  13:57:42
+Se ha mostrardo la lista de productos el 14-04-2020  13:57:47
+Se ha mostrardo la lista de productos el 14-04-2020  13:57:52
+Se ha mostrardo la lista de productos el 14-04-2020  13:57:57
+Se ha mostrardo la lista de productos el 14-04-2020  13:58:03
+Se ha mostrado la lista de clientes el 14-04-2020  13:58:03
+Se ha creado una lista nueva de ventas el 14-04-2020  13:58:03
+Venta 814042020135802 Creada el 14-04-2020  13:58:03
+admin Accedió al Departamento de Ventas el 14-04-2020  13:58:07
+Se ha mostrardo la lista de productos el 14-04-2020  13:58:07
+Se ha mostrado la lista de clientes el 14-04-2020  13:58:07
+Se ha creado una lista nueva de ventas el 14-04-2020  13:58:07
+admin Accedió al Departamento de Ventas el 14-04-2020  13:59:46
+Se ha mostrardo la lista de productos el 14-04-2020  13:59:46
+Se ha mostrado la lista de clientes el 14-04-2020  13:59:46
+Se ha creado una lista nueva de ventas el 14-04-2020  13:59:46
+admin Accedió al Departamento de Ventas el 14-04-2020  14:00:18
+admin Accedió al Departamento de Ventas el 14-04-2020  14:02:48
+admin Accedió al Departamento de Ventas el 14-04-2020  14:03:33
+admin Accedió al Departamento de Ventas el 14-04-2020  14:04:51
+admin Accedió al Departamento de Compras el 14-04-2020  14:20:45
+Se ha mostrardo la lista de productos el 14-04-2020  14:20:45
+Se ha mostrado la lista de Proveedores el 14-04-2020  14:20:45
+Se ha creado una lista nueva de compras el 14-04-2020  14:20:45
+admin Accedió al Departamento de Compras el 14-04-2020  22:43:30
+Se ha mostrardo la lista de productos el 14-04-2020  22:43:30
+Se ha mostrado la lista de Proveedores el 14-04-2020  22:43:30
+Se ha creado una lista nueva de compras el 14-04-2020  22:43:30
+admin Accedió al Departamento de Compras el 14-04-2020  22:44:49
+Se ha mostrardo la lista de productos el 14-04-2020  22:44:49
+Se ha mostrado la lista de Proveedores el 14-04-2020  22:44:49
+Se ha creado una lista nueva de compras el 14-04-2020  22:44:49
+admin Accedió al Departamento de Compras el 14-04-2020  22:45:53
+Se ha mostrardo la lista de productos el 14-04-2020  22:45:53
+Se ha mostrado la lista de Proveedores el 14-04-2020  22:45:53
+Se ha creado una lista nueva de compras el 14-04-2020  22:45:53
+admin Accedió al Departamento de Compras el 14-04-2020  22:46:56
+Se ha mostrardo la lista de productos el 14-04-2020  22:46:56
+Se ha mostrado la lista de Proveedores el 14-04-2020  22:46:56
+Se ha creado una lista nueva de compras el 14-04-2020  22:46:56
+admin Accedió al Departamento de Compras el 15-04-2020  01:13:10
+Se ha mostrardo la lista de productos el 15-04-2020  01:13:10
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:13:10
+Se ha creado una lista nueva de compras el 15-04-2020  01:13:10
+admin Accedió al Departamento de Compras el 15-04-2020  01:15:27
+Se ha mostrardo la lista de productos el 15-04-2020  01:15:27
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:15:27
+Se ha creado una lista nueva de compras el 15-04-2020  01:15:27
+admin Accedió al Departamento de Compras el 15-04-2020  01:20:25
+Se ha mostrardo la lista de productos el 15-04-2020  01:20:25
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:20:25
+Se ha creado una lista nueva de compras el 15-04-2020  01:20:25
+admin Accedió al Departamento de Compras el 15-04-2020  01:40:13
+Se ha mostrardo la lista de productos el 15-04-2020  01:40:13
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:40:13
+Se ha creado una lista nueva de compras el 15-04-2020  01:40:13
+admin Accedió al Departamento de Compras el 15-04-2020  01:41:42
+Se ha mostrardo la lista de productos el 15-04-2020  01:41:42
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:41:42
+Se ha creado una lista nueva de compras el 15-04-2020  01:41:42
+admin Accedió al Departamento de Compras el 15-04-2020  01:46:23
+Se ha mostrardo la lista de productos el 15-04-2020  01:46:23
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:46:23
+Se ha creado una lista nueva de compras el 15-04-2020  01:46:23
+admin Accedió al Departamento de Compras el 15-04-2020  01:48:21
+Se ha mostrardo la lista de productos el 15-04-2020  01:48:21
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:48:21
+Se ha creado una lista nueva de compras el 15-04-2020  01:48:21
+admin Accedió al Departamento de Compras el 15-04-2020  01:49:07
+Se ha mostrardo la lista de productos el 15-04-2020  01:49:07
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:49:07
+Se ha creado una lista nueva de compras el 15-04-2020  01:49:07
+admin Accedió al Departamento de Compras el 15-04-2020  01:50:30
+Se ha mostrardo la lista de productos el 15-04-2020  01:50:30
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:50:30
+Se ha creado una lista nueva de compras el 15-04-2020  01:50:30
+admin Accedió al Departamento de Compras el 15-04-2020  01:51:17
+Se ha mostrardo la lista de productos el 15-04-2020  01:51:17
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:51:17
+Se ha creado una lista nueva de compras el 15-04-2020  01:51:17
+admin Accedió al Departamento de Compras el 15-04-2020  01:53:40
+Se ha mostrardo la lista de productos el 15-04-2020  01:53:40
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:53:40
+Se ha creado una lista nueva de compras el 15-04-2020  01:53:40
+admin Accedió al Departamento de Compras el 15-04-2020  01:54:24
+Se ha mostrardo la lista de productos el 15-04-2020  01:54:24
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:54:24
+Se ha creado una lista nueva de compras el 15-04-2020  01:54:24
+admin Accedió al Departamento de Compras el 15-04-2020  01:57:45
+Se ha mostrardo la lista de productos el 15-04-2020  01:57:45
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:57:45
+Se ha creado una lista nueva de compras el 15-04-2020  01:57:45
+admin Accedió al Departamento de Compras el 15-04-2020  01:58:20
+Se ha mostrardo la lista de productos el 15-04-2020  01:58:20
+Se ha mostrado la lista de Proveedores el 15-04-2020  01:58:20
+Se ha creado una lista nueva de compras el 15-04-2020  01:58:20
+admin Accedió al Departamento de Compras el 15-04-2020  02:01:51
+Se ha mostrardo la lista de productos el 15-04-2020  02:01:51
+Se ha mostrado la lista de Proveedores el 15-04-2020  02:01:51
+Se ha creado una lista nueva de compras el 15-04-2020  02:01:51
+admin Accedió al Departamento de Compras el 15-04-2020  02:03:08
+Se ha mostrardo la lista de productos el 15-04-2020  02:03:08
+Se ha mostrado la lista de Proveedores el 15-04-2020  02:03:08
+Se ha creado una lista nueva de compras el 15-04-2020  02:03:08
+admin Accedió al Departamento de Compras el 15-04-2020  02:09:00
+Se ha mostrardo la lista de productos el 15-04-2020  02:09:00
+Se ha mostrado la lista de Proveedores el 15-04-2020  02:09:00
+Se ha creado una lista nueva de compras el 15-04-2020  02:09:00
+admin Accedió al Departamento de Compras el 15-04-2020  02:24:27
+Se ha mostrardo la lista de productos el 15-04-2020  02:24:27
+Se ha mostrado la lista de Proveedores el 15-04-2020  02:24:27
+Se ha creado una lista nueva de compras el 15-04-2020  02:24:27
+admin Accedió al Departamento de Compras el 15-04-2020  02:27:15
+Se ha mostrardo la lista de productos el 15-04-2020  02:27:15
+Se ha mostrado la lista de Proveedores el 15-04-2020  02:27:15
+Se ha creado una lista nueva de compras el 15-04-2020  02:27:15
+admin Accedió al Departamento de Compras el 15-04-2020  02:28:08
+Se ha mostrardo la lista de productos el 15-04-2020  02:28:08
+Se ha mostrado la lista de Proveedores el 15-04-2020  02:28:08
+Se ha creado una lista nueva de compras el 15-04-2020  02:28:08
+admin Accedió al Departamento de Compras el 15-04-2020  02:29:12
+Se ha mostrardo la lista de productos el 15-04-2020  02:29:12
+Se ha mostrado la lista de Proveedores el 15-04-2020  02:29:12
+Se ha creado una lista nueva de compras el 15-04-2020  02:29:12
+admin Accedió al Departamento de Compras el 15-04-2020  02:30:05
+Se ha mostrardo la lista de productos el 15-04-2020  02:30:05
+Se ha mostrado la lista de Proveedores el 15-04-2020  02:30:05
+Se ha creado una lista nueva de compras el 15-04-2020  02:30:05
+admin Accedió al Departamento de Compras el 15-04-2020  02:30:57
+Se ha mostrardo la lista de productos el 15-04-2020  02:30:57
+Se ha mostrado la lista de Proveedores el 15-04-2020  02:30:57
+Se ha creado una lista nueva de compras el 15-04-2020  02:30:57
+admin Accedió al Departamento de Compras el 15-04-2020  02:33:15
+Se ha mostrardo la lista de productos el 15-04-2020  02:33:15
+Se ha mostrado la lista de Proveedores el 15-04-2020  02:33:15
+Se ha creado una lista nueva de compras el 15-04-2020  02:33:15
+admin Accedió al Almacén el 15-04-2020  16:58:04
+Se ha mostrardo la lista de productos el 15-04-2020  16:58:20
+Producto tigres Creado el 15-04-2020  16:58:20
+admin Accedió al Almacén el 15-04-2020  16:58:25
+Se ha mostrardo la lista de productos el 15-04-2020  16:58:25
+admin Accedió al Almacén el 15-04-2020  16:58:32
+Se ha mostrardo la lista de productos el 15-04-2020  16:58:32
+admin Accedió al Almacén el 15-04-2020  16:59:52
+Se ha mostrardo la lista de productos el 15-04-2020  16:59:52
+admin Accedió al Almacén el 15-04-2020  17:01:11
+Se ha mostrardo la lista de productos el 15-04-2020  17:01:11
+admin Accedió al Almacén el 15-04-2020  17:04:57
+Se ha mostrardo la lista de productos el 15-04-2020  17:04:57
+bolas Eliminado el 15-04-2020  17:05:01
+Se ha mostrardo la lista de productos el 15-04-2020  17:05:01
+admin Accedió a Gestion de Clientes el 15-04-2020  17:06:41
+Se ha mostrado la lista de clientes el 15-04-2020  17:08:27
+Cliente kakashi Creado el 15-04-2020  17:08:27
+admin Accedió a Gestion de Clientes el 15-04-2020  17:08:43
+Se ha mostrado la lista de clientes el 15-04-2020  17:08:43
+admin Accedió a Gestion de Clientes el 15-04-2020  17:08:47
+Se ha mostrado la lista de clientes el 15-04-2020  17:08:47
+Cliente hh Eliminado el 15-04-2020  17:08:50
+admin Accedió a Gestion de Clientes el 15-04-2020  17:11:47
+Se ha mostrado la lista de clientes el 15-04-2020  17:11:47
+Cliente cliente2 Eliminado el 15-04-2020  17:11:51
+admin Accedió a Gestion de Clientes el 15-04-2020  17:12:20
+Se ha mostrado la lista de clientes el 15-04-2020  17:12:20
+Cliente kakashi Eliminado el 15-04-2020  17:12:23
+admin Accedió a gestión de empleados el 15-04-2020  17:14:43
+Se ha mostrado la lista de empleados el 15-04-2020  17:14:50
+Empleado kakashi Creado el 15-04-2020  17:14:50
+admin Accedió a gestión de empleados el 15-04-2020  17:15:08
+Se ha mostrado la lista de empleados el 15-04-2020  17:15:08
+admin Accedió a gestión de empleados el 15-04-2020  17:18:13
+Se ha mostrado la lista de empleados el 15-04-2020  17:18:13
+admin Accedió a gestión de empleados el 15-04-2020  17:19:57
+Se ha mostrado la lista de empleados el 15-04-2020  17:19:57
+Empleado kakashi Eliminado el 15-04-2020  17:20:01
+admin Accedió a gestión de empleados el 15-04-2020  17:20:05
+Se ha mostrado la lista de empleados el 15-04-2020  17:20:05
+admin Accedió al Departamento de Ventas el 15-04-2020  17:20:16
+Se ha mostrado la lista de clientes el 15-04-2020  17:20:16
+Se ha mostrardo la lista de productos el 15-04-2020  17:20:24
+Se ha mostrardo la lista de productos el 15-04-2020  17:20:47
+Se ha mostrardo la lista de productos el 15-04-2020  17:20:55
+Se ha mostrado la lista de clientes el 15-04-2020  17:20:55
+Se ha creado una lista nueva de ventas el 15-04-2020  17:20:55
+Venta 1615042020172055 Creada el 15-04-2020  17:20:55
+admin Accedió al Departamento de Ventas el 15-04-2020  17:21:04
+Se ha mostrardo la lista de productos el 15-04-2020  17:21:04
+Se ha mostrado la lista de clientes el 15-04-2020  17:21:04
+Se ha creado una lista nueva de ventas el 15-04-2020  17:21:04
+admin Accedió al Departamento de Ventas el 15-04-2020  17:22:39
+Se ha mostrardo la lista de productos el 15-04-2020  17:22:39
+Se ha mostrado la lista de clientes el 15-04-2020  17:22:39
+Se ha creado una lista nueva de ventas el 15-04-2020  17:22:39
+admin Accedió al Departamento de Ventas el 15-04-2020  17:27:57
+Se ha mostrardo la lista de productos el 15-04-2020  17:27:57
+Se ha mostrado la lista de clientes el 15-04-2020  17:27:57
+Se ha creado una lista nueva de ventas el 15-04-2020  17:27:57
+admin Accedió al Departamento de Ventas el 15-04-2020  17:28:01
+Se ha mostrardo la lista de productos el 15-04-2020  17:28:01
+Se ha mostrado la lista de clientes el 15-04-2020  17:28:01
+Se ha creado una lista nueva de ventas el 15-04-2020  17:28:01
+Albaran: 1615042020172055 Eliminado el 15-04-2020  17:28:04
+admin Accedió al Departamento de Compras el 15-04-2020  17:28:22
+Se ha mostrado la lista de Proveedores el 15-04-2020  17:28:22
+Se ha mostrardo la lista de productos el 15-04-2020  17:28:26
+Se ha mostrardo la lista de productos el 15-04-2020  17:28:33
+Se ha mostrardo la lista de productos el 15-04-2020  17:28:50
+Se ha mostrardo la lista de productos el 15-04-2020  17:28:57
+Se ha mostrado la lista de Proveedores el 15-04-2020  17:28:57
+Se ha creado una lista nueva de compras el 15-04-2020  17:28:57
+Orden de compra 2415042020172857 Creada el 15-04-2020  17:28:57
+admin Accedió al Departamento de Compras el 15-04-2020  17:29:07
+Se ha mostrardo la lista de productos el 15-04-2020  17:29:07
+Se ha mostrado la lista de Proveedores el 15-04-2020  17:29:07
+Se ha creado una lista nueva de compras el 15-04-2020  17:29:07
+Albaran: 2415042020172857 Eliminado el 15-04-2020  17:29:24
+admin Accedió al Departamento de Compras el 15-04-2020  17:29:31
+Se ha mostrado la lista de Proveedores el 15-04-2020  17:29:31
+Se ha mostrardo la lista de productos el 15-04-2020  17:29:34
+Se ha mostrardo la lista de productos el 15-04-2020  17:29:44
+Se ha mostrardo la lista de productos el 15-04-2020  17:29:52
+Se ha mostrado la lista de Proveedores el 15-04-2020  17:29:52
+Se ha creado una lista nueva de compras el 15-04-2020  17:29:52
+Orden de compra 915042020172952 Creada el 15-04-2020  17:29:52
+admin Accedió al Departamento de Compras el 15-04-2020  17:29:55
+Se ha mostrardo la lista de productos el 15-04-2020  17:29:55
+Se ha mostrado la lista de Proveedores el 15-04-2020  17:29:55
+Se ha creado una lista nueva de compras el 15-04-2020  17:29:55
+Albaran: 915042020172952 Eliminado el 15-04-2020  17:29:59
+admin Accedió al Departamento de Compras el 15-04-2020  17:30:07
+Se ha mostrado la lista de Proveedores el 15-04-2020  17:30:26
+Proveedor kempachi Creado el 15-04-2020  17:30:26
+admin Accedió al Almacén el 15-04-2020  18:44:47
+Se ha mostrardo la lista de productos el 15-04-2020  18:44:47
+tyu Eliminado el 15-04-2020  18:45:54
+Se ha mostrardo la lista de productos el 15-04-2020  18:45:54
+admin Accedió al Almacén el 15-04-2020  18:46:55
+Se ha mostrardo la lista de productos el 15-04-2020  18:46:55
+tyu Eliminado el 15-04-2020  18:46:59
+Se ha mostrardo la lista de productos el 15-04-2020  18:46:59
+admin Accedió al Almacén el 15-04-2020  18:48:33
+Se ha mostrardo la lista de productos el 15-04-2020  18:48:33
+admin Accedió al Almacén el 15-04-2020  18:51:34
+Se ha mostrardo la lista de productos el 15-04-2020  18:51:34
+hielo Eliminado el 15-04-2020  18:52:06
+Se ha mostrardo la lista de productos el 15-04-2020  18:52:06
+admin Accedió al Almacén el 15-04-2020  18:53:48
+Se ha mostrardo la lista de productos el 15-04-2020  18:53:48
+canicas Eliminado el 15-04-2020  18:53:57
+Se ha mostrardo la lista de productos el 15-04-2020  18:53:57
+admin Accedió al Almacén el 15-04-2020  18:54:13
+Se ha mostrardo la lista de productos el 15-04-2020  18:54:13
+admin Accedió al Departamento de Compras el 15-04-2020  19:04:08
+Se ha mostrardo la lista de productos el 15-04-2020  19:04:08
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:04:08
+Se ha creado una lista nueva de compras el 15-04-2020  19:04:08
+admin Accedió al Departamento de Compras el 15-04-2020  19:06:26
+Se ha mostrardo la lista de productos el 15-04-2020  19:06:26
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:06:26
+Se ha creado una lista nueva de compras el 15-04-2020  19:06:26
+admin Accedió al Departamento de Compras el 15-04-2020  19:07:35
+Se ha mostrardo la lista de productos el 15-04-2020  19:07:35
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:07:35
+Se ha creado una lista nueva de compras el 15-04-2020  19:07:35
+admin Accedió al Departamento de Compras el 15-04-2020  19:08:37
+Se ha mostrardo la lista de productos el 15-04-2020  19:08:37
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:08:37
+Se ha creado una lista nueva de compras el 15-04-2020  19:08:37
+admin Accedió al Departamento de Compras el 15-04-2020  19:11:48
+Se ha mostrardo la lista de productos el 15-04-2020  19:11:48
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:11:48
+Se ha creado una lista nueva de compras el 15-04-2020  19:11:48
+admin Accedió al Departamento de Compras el 15-04-2020  19:13:22
+Se ha mostrardo la lista de productos el 15-04-2020  19:13:22
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:13:22
+Se ha creado una lista nueva de compras el 15-04-2020  19:13:22
+admin Accedió al Departamento de Compras el 15-04-2020  19:15:07
+Se ha mostrardo la lista de productos el 15-04-2020  19:15:07
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:15:07
+Se ha creado una lista nueva de compras el 15-04-2020  19:15:07
+admin Accedió al Departamento de Compras el 15-04-2020  19:19:35
+Se ha mostrardo la lista de productos el 15-04-2020  19:19:35
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:19:35
+Se ha creado una lista nueva de compras el 15-04-2020  19:19:35
+admin Accedió al Departamento de Compras el 15-04-2020  19:21:25
+Se ha mostrardo la lista de productos el 15-04-2020  19:21:25
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:21:25
+Se ha creado una lista nueva de compras el 15-04-2020  19:21:25
+admin Accedió al Departamento de Compras el 15-04-2020  19:23:11
+Se ha mostrardo la lista de productos el 15-04-2020  19:23:11
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:23:11
+Se ha creado una lista nueva de compras el 15-04-2020  19:23:11
+admin Accedió al Departamento de Compras el 15-04-2020  19:26:01
+Se ha mostrardo la lista de productos el 15-04-2020  19:26:01
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:26:01
+Se ha creado una lista nueva de compras el 15-04-2020  19:26:01
+admin Accedió al Departamento de Compras el 15-04-2020  19:29:10
+Se ha mostrardo la lista de productos el 15-04-2020  19:29:10
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:29:10
+Se ha creado una lista nueva de compras el 15-04-2020  19:29:10
+admin Accedió al Departamento de Compras el 15-04-2020  19:32:14
+Se ha mostrardo la lista de productos el 15-04-2020  19:32:14
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:32:14
+Se ha creado una lista nueva de compras el 15-04-2020  19:32:14
+admin Accedió al Departamento de Compras el 15-04-2020  19:32:58
+Se ha mostrardo la lista de productos el 15-04-2020  19:32:58
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:32:58
+Se ha creado una lista nueva de compras el 15-04-2020  19:32:58
+admin Accedió al Departamento de Compras el 15-04-2020  19:34:13
+Se ha mostrardo la lista de productos el 15-04-2020  19:34:13
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:34:13
+Se ha creado una lista nueva de compras el 15-04-2020  19:34:13
+admin Accedió al Departamento de Compras el 15-04-2020  19:38:25
+Se ha mostrardo la lista de productos el 15-04-2020  19:38:25
+Se ha mostrado la lista de Proveedores el 15-04-2020  19:38:25
+Se ha creado una lista nueva de compras el 15-04-2020  19:38:25
+admin Accedió al Departamento de Ventas el 15-04-2020  19:39:06
+Se ha mostrardo la lista de productos el 15-04-2020  19:39:06
+Se ha mostrado la lista de clientes el 15-04-2020  19:39:06
+Se ha creado una lista nueva de ventas el 15-04-2020  19:39:06
+admin Accedió al Departamento de Ventas el 15-04-2020  19:45:46
+Se ha mostrardo la lista de productos el 15-04-2020  19:45:46
+Se ha mostrado la lista de clientes el 15-04-2020  19:45:46
+Se ha creado una lista nueva de ventas el 15-04-2020  19:45:46
+admin Accedió al Departamento de Ventas el 15-04-2020  19:46:39
+Se ha mostrardo la lista de productos el 15-04-2020  19:46:39
+Se ha mostrado la lista de clientes el 15-04-2020  19:46:39
+Se ha creado una lista nueva de ventas el 15-04-2020  19:46:39
+admin Accedió al Departamento de Ventas el 15-04-2020  19:49:05
+Se ha mostrardo la lista de productos el 15-04-2020  19:49:05
+Se ha mostrado la lista de clientes el 15-04-2020  19:49:05
+Se ha creado una lista nueva de ventas el 15-04-2020  19:49:05
+admin Accedió al Departamento de Ventas el 15-04-2020  19:51:08
+Se ha mostrardo la lista de productos el 15-04-2020  19:51:08
+Se ha mostrado la lista de clientes el 15-04-2020  19:51:08
+Se ha creado una lista nueva de ventas el 15-04-2020  19:51:08
+admin Accedió al Departamento de Ventas el 15-04-2020  19:53:38
+Se ha mostrardo la lista de productos el 15-04-2020  19:53:38
+Se ha mostrado la lista de clientes el 15-04-2020  19:53:38
+Se ha creado una lista nueva de ventas el 15-04-2020  19:53:38
+admin Accedió al Departamento de Ventas el 15-04-2020  19:54:24
+Se ha mostrardo la lista de productos el 15-04-2020  19:54:24
+Se ha mostrado la lista de clientes el 15-04-2020  19:54:24
+Se ha creado una lista nueva de ventas el 15-04-2020  19:54:24
+admin Accedió al Departamento de Ventas el 15-04-2020  19:55:32
+Se ha mostrardo la lista de productos el 15-04-2020  19:55:32
+Se ha mostrado la lista de clientes el 15-04-2020  19:55:32
+Se ha creado una lista nueva de ventas el 15-04-2020  19:55:32
+admin Accedió al Departamento de Ventas el 15-04-2020  19:56:07
+Se ha mostrardo la lista de productos el 15-04-2020  19:56:07
+Se ha mostrado la lista de clientes el 15-04-2020  19:56:07
+Se ha creado una lista nueva de ventas el 15-04-2020  19:56:07
+admin Accedió al Departamento de Ventas el 15-04-2020  19:58:03
+Se ha mostrardo la lista de productos el 15-04-2020  19:58:03
+Se ha mostrado la lista de clientes el 15-04-2020  19:58:03
+Se ha creado una lista nueva de ventas el 15-04-2020  19:58:03
+admin Accedió al Departamento de Ventas el 15-04-2020  19:59:00
+Se ha mostrardo la lista de productos el 15-04-2020  19:59:00
+Se ha mostrado la lista de clientes el 15-04-2020  19:59:00
+Se ha creado una lista nueva de ventas el 15-04-2020  19:59:00
+admin Accedió al Departamento de Ventas el 15-04-2020  19:59:18
+Se ha mostrardo la lista de productos el 15-04-2020  19:59:18
+Se ha mostrado la lista de clientes el 15-04-2020  19:59:18
+Se ha creado una lista nueva de ventas el 15-04-2020  19:59:18
+admin Accedió al Departamento de Compras el 15-04-2020  20:01:09
+Se ha mostrardo la lista de productos el 15-04-2020  20:01:09
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:01:09
+Se ha creado una lista nueva de compras el 15-04-2020  20:01:09
+admin Accedió al Departamento de Compras el 15-04-2020  20:01:15
+Se ha mostrardo la lista de productos el 15-04-2020  20:01:15
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:01:15
+Se ha creado una lista nueva de compras el 15-04-2020  20:01:15
+admin Accedió al Departamento de Compras el 15-04-2020  20:02:18
+Se ha mostrardo la lista de productos el 15-04-2020  20:02:18
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:02:18
+Se ha creado una lista nueva de compras el 15-04-2020  20:02:18
+admin Accedió al Departamento de Compras el 15-04-2020  20:05:13
+Se ha mostrardo la lista de productos el 15-04-2020  20:05:13
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:05:13
+Se ha creado una lista nueva de compras el 15-04-2020  20:05:13
+admin Accedió al Departamento de Compras el 15-04-2020  20:07:14
+Se ha mostrardo la lista de productos el 15-04-2020  20:07:14
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:07:14
+Se ha creado una lista nueva de compras el 15-04-2020  20:07:14
+admin Accedió al Departamento de Compras el 15-04-2020  20:12:00
+Se ha mostrardo la lista de productos el 15-04-2020  20:12:00
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:12:00
+Se ha creado una lista nueva de compras el 15-04-2020  20:12:00
+admin Accedió al Departamento de Compras el 15-04-2020  20:16:45
+Se ha mostrardo la lista de productos el 15-04-2020  20:16:45
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:16:45
+Se ha creado una lista nueva de compras el 15-04-2020  20:16:45
+admin Accedió al Departamento de Compras el 15-04-2020  20:26:06
+Se ha mostrardo la lista de productos el 15-04-2020  20:26:06
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:26:06
+Se ha creado una lista nueva de compras el 15-04-2020  20:26:06
+admin Accedió al Departamento de Compras el 15-04-2020  20:26:26
+Se ha mostrardo la lista de productos el 15-04-2020  20:26:26
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:26:26
+Se ha creado una lista nueva de compras el 15-04-2020  20:26:26
+admin Accedió al Departamento de Compras el 15-04-2020  20:39:51
+Se ha mostrardo la lista de productos el 15-04-2020  20:39:51
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:39:51
+Se ha creado una lista nueva de compras el 15-04-2020  20:39:51
+admin Accedió al Departamento de Compras el 15-04-2020  20:41:05
+Se ha mostrardo la lista de productos el 15-04-2020  20:41:05
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:41:05
+Se ha creado una lista nueva de compras el 15-04-2020  20:41:05
+admin Accedió al Departamento de Compras el 15-04-2020  20:47:50
+Se ha mostrardo la lista de productos el 15-04-2020  20:47:50
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:47:50
+Se ha creado una lista nueva de compras el 15-04-2020  20:47:50
+admin Accedió al Departamento de Compras el 15-04-2020  20:48:11
+Se ha mostrardo la lista de productos el 15-04-2020  20:48:11
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:48:11
+Se ha creado una lista nueva de compras el 15-04-2020  20:48:11
+admin Accedió al Departamento de Compras el 15-04-2020  20:48:49
+Se ha mostrardo la lista de productos el 15-04-2020  20:48:49
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:48:49
+Se ha creado una lista nueva de compras el 15-04-2020  20:48:49
+admin Accedió al Departamento de Compras el 15-04-2020  20:50:35
+Se ha mostrardo la lista de productos el 15-04-2020  20:50:35
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:50:35
+Se ha creado una lista nueva de compras el 15-04-2020  20:50:35
+admin Accedió al Departamento de Compras el 15-04-2020  20:51:33
+Se ha mostrardo la lista de productos el 15-04-2020  20:51:33
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:51:33
+Se ha creado una lista nueva de compras el 15-04-2020  20:51:33
+admin Accedió al Departamento de Compras el 15-04-2020  20:53:21
+Se ha mostrardo la lista de productos el 15-04-2020  20:53:21
+Se ha mostrado la lista de Proveedores el 15-04-2020  20:53:21
+Se ha creado una lista nueva de compras el 15-04-2020  20:53:21
+admin Accedió al Departamento de Compras el 15-04-2020  21:53:08
+Se ha mostrardo la lista de productos el 15-04-2020  21:53:08
+Se ha mostrado la lista de Proveedores el 15-04-2020  21:53:08
+Se ha creado una lista nueva de compras el 15-04-2020  21:53:08
+admin Accedió al Departamento de Compras el 15-04-2020  21:53:49
+Se ha mostrardo la lista de productos el 15-04-2020  21:53:49
+Se ha mostrado la lista de Proveedores el 15-04-2020  21:53:49
+Se ha creado una lista nueva de compras el 15-04-2020  21:53:49
+admin Accedió al Departamento de Compras el 15-04-2020  21:54:21
+Se ha mostrardo la lista de productos el 15-04-2020  21:54:21
+Se ha mostrado la lista de Proveedores el 15-04-2020  21:54:21
+Se ha creado una lista nueva de compras el 15-04-2020  21:54:21
+admin Accedió al Departamento de Compras el 15-04-2020  21:55:10
+Se ha mostrardo la lista de productos el 15-04-2020  21:55:10
+Se ha mostrado la lista de Proveedores el 15-04-2020  21:55:10
+Se ha creado una lista nueva de compras el 15-04-2020  21:55:10
+admin Accedió al Departamento de Compras el 15-04-2020  21:55:37
+Se ha mostrardo la lista de productos el 15-04-2020  21:55:37
+Se ha mostrado la lista de Proveedores el 15-04-2020  21:55:37
+Se ha creado una lista nueva de compras el 15-04-2020  21:55:37
+admin Accedió al Departamento de Compras el 15-04-2020  21:56:32
+Se ha mostrardo la lista de productos el 15-04-2020  21:56:32
+Se ha mostrado la lista de Proveedores el 15-04-2020  21:56:32
+Se ha creado una lista nueva de compras el 15-04-2020  21:56:32
+admin Accedió al Departamento de Compras el 15-04-2020  22:02:15
+Se ha mostrardo la lista de productos el 15-04-2020  22:02:15
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:02:15
+Se ha creado una lista nueva de compras el 15-04-2020  22:02:15
+admin Accedió al Departamento de Compras el 15-04-2020  22:03:59
+Se ha mostrardo la lista de productos el 15-04-2020  22:03:59
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:03:59
+Se ha creado una lista nueva de compras el 15-04-2020  22:03:59
+admin Accedió al Departamento de Compras el 15-04-2020  22:05:09
+Se ha mostrardo la lista de productos el 15-04-2020  22:05:09
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:05:09
+Se ha creado una lista nueva de compras el 15-04-2020  22:05:09
+admin Accedió al Departamento de Compras el 15-04-2020  22:05:55
+Se ha mostrardo la lista de productos el 15-04-2020  22:05:55
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:05:55
+Se ha creado una lista nueva de compras el 15-04-2020  22:05:55
+admin Accedió al Departamento de Compras el 15-04-2020  22:06:32
+Se ha mostrardo la lista de productos el 15-04-2020  22:06:32
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:06:32
+Se ha creado una lista nueva de compras el 15-04-2020  22:06:32
+admin Accedió al Departamento de Compras el 15-04-2020  22:07:07
+Se ha mostrardo la lista de productos el 15-04-2020  22:07:07
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:07:07
+Se ha creado una lista nueva de compras el 15-04-2020  22:07:07
+admin Accedió al Departamento de Compras el 15-04-2020  22:16:36
+Se ha mostrardo la lista de productos el 15-04-2020  22:16:36
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:16:36
+Se ha creado una lista nueva de compras el 15-04-2020  22:16:36
+admin Accedió al Departamento de Compras el 15-04-2020  22:17:12
+Se ha mostrardo la lista de productos el 15-04-2020  22:17:12
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:17:12
+Se ha creado una lista nueva de compras el 15-04-2020  22:17:12
+admin Accedió al Departamento de Compras el 15-04-2020  22:24:11
+Se ha mostrardo la lista de productos el 15-04-2020  22:24:11
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:24:11
+Se ha creado una lista nueva de compras el 15-04-2020  22:24:11
+admin Accedió al Departamento de Compras el 15-04-2020  22:26:48
+Se ha mostrardo la lista de productos el 15-04-2020  22:26:48
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:26:48
+Se ha creado una lista nueva de compras el 15-04-2020  22:26:48
+admin Accedió al Departamento de Compras el 15-04-2020  22:27:41
+Se ha mostrardo la lista de productos el 15-04-2020  22:27:41
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:27:41
+Se ha creado una lista nueva de compras el 15-04-2020  22:27:41
+admin Accedió al Departamento de Compras el 15-04-2020  22:30:41
+Se ha mostrardo la lista de productos el 15-04-2020  22:30:41
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:30:41
+Se ha creado una lista nueva de compras el 15-04-2020  22:30:41
+admin Accedió al Departamento de Compras el 15-04-2020  22:31:16
+Se ha mostrardo la lista de productos el 15-04-2020  22:31:16
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:31:16
+Se ha creado una lista nueva de compras el 15-04-2020  22:31:16
+admin Accedió al Departamento de Compras el 15-04-2020  22:31:41
+Se ha mostrardo la lista de productos el 15-04-2020  22:31:41
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:31:41
+Se ha creado una lista nueva de compras el 15-04-2020  22:31:41
+admin Accedió al Departamento de Compras el 15-04-2020  22:37:54
+Se ha mostrardo la lista de productos el 15-04-2020  22:37:54
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:37:54
+Se ha creado una lista nueva de compras el 15-04-2020  22:37:54
+admin Accedió al Departamento de Compras el 15-04-2020  22:39:06
+Se ha mostrardo la lista de productos el 15-04-2020  22:39:06
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:39:06
+Se ha creado una lista nueva de compras el 15-04-2020  22:39:06
+admin Accedió al Departamento de Compras el 15-04-2020  22:49:03
+Se ha mostrardo la lista de productos el 15-04-2020  22:49:03
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:49:03
+Se ha creado una lista nueva de compras el 15-04-2020  22:49:03
+admin Accedió al Departamento de Compras el 15-04-2020  22:49:46
+Se ha mostrardo la lista de productos el 15-04-2020  22:49:46
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:49:46
+Se ha creado una lista nueva de compras el 15-04-2020  22:49:46
+admin Accedió al Departamento de Compras el 15-04-2020  22:50:19
+Se ha mostrardo la lista de productos el 15-04-2020  22:50:19
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:50:19
+Se ha creado una lista nueva de compras el 15-04-2020  22:50:19
+admin Accedió al Departamento de Compras el 15-04-2020  22:55:53
+Se ha mostrardo la lista de productos el 15-04-2020  22:55:53
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:55:53
+Se ha creado una lista nueva de compras el 15-04-2020  22:55:53
+admin Accedió al Departamento de Compras el 15-04-2020  22:56:27
+Se ha mostrardo la lista de productos el 15-04-2020  22:56:27
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:56:27
+Se ha creado una lista nueva de compras el 15-04-2020  22:56:27
+admin Accedió al Departamento de Compras el 15-04-2020  22:57:49
+Se ha mostrardo la lista de productos el 15-04-2020  22:57:49
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:57:49
+Se ha creado una lista nueva de compras el 15-04-2020  22:57:49
+admin Accedió al Departamento de Compras el 15-04-2020  22:58:08
+Se ha mostrardo la lista de productos el 15-04-2020  22:58:08
+Se ha mostrado la lista de Proveedores el 15-04-2020  22:58:08
+Se ha creado una lista nueva de compras el 15-04-2020  22:58:08
+admin Accedió al Departamento de Compras el 15-04-2020  23:00:27
+Se ha mostrardo la lista de productos el 15-04-2020  23:00:27
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:00:27
+Se ha creado una lista nueva de compras el 15-04-2020  23:00:27
+admin Accedió al Departamento de Compras el 15-04-2020  23:01:10
+Se ha mostrardo la lista de productos el 15-04-2020  23:01:10
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:01:10
+Se ha creado una lista nueva de compras el 15-04-2020  23:01:10
+admin Accedió al Departamento de Compras el 15-04-2020  23:02:31
+Se ha mostrardo la lista de productos el 15-04-2020  23:02:31
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:02:31
+Se ha creado una lista nueva de compras el 15-04-2020  23:02:31
+admin Accedió al Departamento de Compras el 15-04-2020  23:02:59
+Se ha mostrardo la lista de productos el 15-04-2020  23:02:59
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:02:59
+Se ha creado una lista nueva de compras el 15-04-2020  23:02:59
+admin Accedió al Departamento de Compras el 15-04-2020  23:04:32
+Se ha mostrardo la lista de productos el 15-04-2020  23:04:32
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:04:32
+Se ha creado una lista nueva de compras el 15-04-2020  23:04:32
+admin Accedió al Departamento de Compras el 15-04-2020  23:05:13
+Se ha mostrardo la lista de productos el 15-04-2020  23:05:13
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:05:13
+Se ha creado una lista nueva de compras el 15-04-2020  23:05:13
+admin Accedió al Departamento de Compras el 15-04-2020  23:06:04
+Se ha mostrardo la lista de productos el 15-04-2020  23:06:04
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:06:04
+Se ha creado una lista nueva de compras el 15-04-2020  23:06:04
+admin Accedió al Departamento de Compras el 15-04-2020  23:06:41
+Se ha mostrardo la lista de productos el 15-04-2020  23:06:41
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:06:41
+Se ha creado una lista nueva de compras el 15-04-2020  23:06:41
+admin Accedió al Departamento de Compras el 15-04-2020  23:07:04
+Se ha mostrardo la lista de productos el 15-04-2020  23:07:04
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:07:04
+Se ha creado una lista nueva de compras el 15-04-2020  23:07:04
+admin Accedió al Departamento de Compras el 15-04-2020  23:07:33
+Se ha mostrardo la lista de productos el 15-04-2020  23:07:33
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:07:33
+Se ha creado una lista nueva de compras el 15-04-2020  23:07:33
+admin Accedió al Departamento de Compras el 15-04-2020  23:08:05
+Se ha mostrardo la lista de productos el 15-04-2020  23:08:05
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:08:05
+Se ha creado una lista nueva de compras el 15-04-2020  23:08:05
+admin Accedió al Departamento de Compras el 15-04-2020  23:08:26
+Se ha mostrardo la lista de productos el 15-04-2020  23:08:26
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:08:26
+Se ha creado una lista nueva de compras el 15-04-2020  23:08:26
+admin Accedió al Departamento de Compras el 15-04-2020  23:08:53
+Se ha mostrardo la lista de productos el 15-04-2020  23:08:53
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:08:53
+Se ha creado una lista nueva de compras el 15-04-2020  23:08:53
+admin Accedió al Departamento de Compras el 15-04-2020  23:19:38
+Se ha mostrardo la lista de productos el 15-04-2020  23:19:38
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:19:38
+Se ha creado una lista nueva de compras el 15-04-2020  23:19:38
+admin Accedió al Departamento de Compras el 15-04-2020  23:20:14
+Se ha mostrardo la lista de productos el 15-04-2020  23:20:14
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:20:14
+Se ha creado una lista nueva de compras el 15-04-2020  23:20:14
+admin Accedió al Departamento de Compras el 15-04-2020  23:22:09
+Se ha mostrardo la lista de productos el 15-04-2020  23:22:09
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:22:09
+Se ha creado una lista nueva de compras el 15-04-2020  23:22:09
+admin Accedió al Departamento de Compras el 15-04-2020  23:22:39
+Se ha mostrardo la lista de productos el 15-04-2020  23:22:39
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:22:39
+Se ha creado una lista nueva de compras el 15-04-2020  23:22:39
+admin Accedió al Departamento de Compras el 15-04-2020  23:23:10
+Se ha mostrardo la lista de productos el 15-04-2020  23:23:10
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:23:10
+Se ha creado una lista nueva de compras el 15-04-2020  23:23:10
+admin Accedió al Departamento de Compras el 15-04-2020  23:23:36
+Se ha mostrardo la lista de productos el 15-04-2020  23:23:36
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:23:36
+Se ha creado una lista nueva de compras el 15-04-2020  23:23:36
+admin Accedió al Departamento de Compras el 15-04-2020  23:25:49
+Se ha mostrardo la lista de productos el 15-04-2020  23:25:49
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:25:49
+Se ha creado una lista nueva de compras el 15-04-2020  23:25:49
+admin Accedió al Departamento de Compras el 15-04-2020  23:26:14
+Se ha mostrardo la lista de productos el 15-04-2020  23:26:14
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:26:14
+Se ha creado una lista nueva de compras el 15-04-2020  23:26:14
+admin Accedió al Departamento de Compras el 15-04-2020  23:27:26
+Se ha mostrardo la lista de productos el 15-04-2020  23:27:26
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:27:26
+Se ha creado una lista nueva de compras el 15-04-2020  23:27:26
+admin Accedió al Departamento de Compras el 15-04-2020  23:28:32
+Se ha mostrardo la lista de productos el 15-04-2020  23:28:32
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:28:32
+Se ha creado una lista nueva de compras el 15-04-2020  23:28:32
+admin Accedió al Departamento de Compras el 15-04-2020  23:29:02
+Se ha mostrardo la lista de productos el 15-04-2020  23:29:02
+Se ha mostrado la lista de Proveedores el 15-04-2020  23:29:02
+Se ha creado una lista nueva de compras el 15-04-2020  23:29:02
+admin Accedió al Departamento de Compras el 16-04-2020  19:15:25
+Se ha mostrardo la lista de productos el 16-04-2020  19:15:25
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:15:25
+Se ha creado una lista nueva de compras el 16-04-2020  19:15:25
+admin Accedió al Departamento de Compras el 16-04-2020  19:15:59
+Se ha mostrardo la lista de productos el 16-04-2020  19:15:59
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:15:59
+Se ha creado una lista nueva de compras el 16-04-2020  19:15:59
+admin Accedió al Departamento de Compras el 16-04-2020  19:16:24
+Se ha mostrardo la lista de productos el 16-04-2020  19:16:24
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:16:24
+Se ha creado una lista nueva de compras el 16-04-2020  19:16:24
+admin Accedió al Departamento de Compras el 16-04-2020  19:16:45
+Se ha mostrardo la lista de productos el 16-04-2020  19:16:45
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:16:45
+Se ha creado una lista nueva de compras el 16-04-2020  19:16:45
+admin Accedió al Departamento de Compras el 16-04-2020  19:18:13
+Se ha mostrardo la lista de productos el 16-04-2020  19:18:13
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:18:13
+Se ha creado una lista nueva de compras el 16-04-2020  19:18:13
+admin Accedió al Departamento de Compras el 16-04-2020  19:19:42
+Se ha mostrardo la lista de productos el 16-04-2020  19:19:42
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:19:42
+Se ha creado una lista nueva de compras el 16-04-2020  19:19:42
+admin Accedió al Departamento de Compras el 16-04-2020  19:21:28
+Se ha mostrardo la lista de productos el 16-04-2020  19:21:28
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:21:28
+Se ha creado una lista nueva de compras el 16-04-2020  19:21:28
+admin Accedió al Departamento de Compras el 16-04-2020  19:25:42
+Se ha mostrardo la lista de productos el 16-04-2020  19:25:42
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:25:42
+Se ha creado una lista nueva de compras el 16-04-2020  19:25:42
+admin Accedió al Departamento de Compras el 16-04-2020  19:26:21
+Se ha mostrardo la lista de productos el 16-04-2020  19:26:21
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:26:21
+Se ha creado una lista nueva de compras el 16-04-2020  19:26:21
+admin Accedió al Departamento de Compras el 16-04-2020  19:36:19
+Se ha mostrardo la lista de productos el 16-04-2020  19:36:19
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:36:19
+Se ha creado una lista nueva de compras el 16-04-2020  19:36:19
+admin Accedió al Departamento de Compras el 16-04-2020  19:37:08
+Se ha mostrardo la lista de productos el 16-04-2020  19:37:08
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:37:08
+Se ha creado una lista nueva de compras el 16-04-2020  19:37:08
+admin Accedió al Departamento de Compras el 16-04-2020  19:39:00
+Se ha mostrardo la lista de productos el 16-04-2020  19:39:00
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:39:00
+Se ha creado una lista nueva de compras el 16-04-2020  19:39:00
+admin Accedió al Departamento de Compras el 16-04-2020  19:43:28
+Se ha mostrardo la lista de productos el 16-04-2020  19:43:28
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:43:28
+Se ha creado una lista nueva de compras el 16-04-2020  19:43:28
+admin Accedió al Departamento de Compras el 16-04-2020  19:43:49
+Se ha mostrardo la lista de productos el 16-04-2020  19:43:49
+Se ha mostrado la lista de Proveedores el 16-04-2020  19:43:49
+Se ha creado una lista nueva de compras el 16-04-2020  19:43:49
+admin Accedió al Departamento de Ventas el 16-04-2020  19:44:12
+Se ha mostrardo la lista de productos el 16-04-2020  19:44:12
+Se ha mostrado la lista de clientes el 16-04-2020  19:44:12
+Se ha creado una lista nueva de ventas el 16-04-2020  19:44:12
+admin Accedió a Gestion de Clientes el 16-04-2020  19:44:27
+Se ha mostrado la lista de clientes el 16-04-2020  19:44:27
+admin Accedió al Almacén el 16-04-2020  19:44:35
+Se ha mostrardo la lista de productos el 16-04-2020  19:44:35
+admin Accedió al Almacén el 16-04-2020  19:46:26
+Se ha mostrardo la lista de productos el 16-04-2020  19:46:26
+admin Accedió al Almacén el 16-04-2020  19:47:46
+Se ha mostrardo la lista de productos el 16-04-2020  19:47:46
+admin Accedió al Almacén el 16-04-2020  19:48:35
+Se ha mostrardo la lista de productos el 16-04-2020  19:48:35
+admin Accedió al Almacén el 16-04-2020  19:49:39
+Se ha mostrardo la lista de productos el 16-04-2020  19:49:39
+admin Accedió al Almacén el 16-04-2020  19:50:02
+Se ha mostrardo la lista de productos el 16-04-2020  19:50:02
+admin Accedió al Almacén el 16-04-2020  19:50:33
+Se ha mostrardo la lista de productos el 16-04-2020  19:50:33
+admin Accedió al Almacén el 16-04-2020  19:50:57
+Se ha mostrardo la lista de productos el 16-04-2020  19:50:57
+admin Accedió al Almacén el 16-04-2020  19:51:54
+Se ha mostrardo la lista de productos el 16-04-2020  19:51:54
+admin Accedió al Almacén el 16-04-2020  19:52:34
+Se ha mostrardo la lista de productos el 16-04-2020  19:52:34

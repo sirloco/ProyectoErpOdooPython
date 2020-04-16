@@ -1,20 +1,23 @@
 import Funcion
+import Vista
+import BBDD
 
 nombre = ""
 
 
 def ventas():
     opcion = 0
-    while opcion != "5":
+    while opcion != "4":
 
-        print("1. Crear Venta\n"
+        print("\n"
+              "1. Crear Venta\n"
               "2. Anular orden Venta\n"
               "3. Mostrar Ventas\n"
               "4. Atras")
 
         opcion = input("opcion: ")[0]
 
-        if opcion in fcompras.keys():
+        if opcion in fventas.keys():
             Funcion.log(nombre + " Accedió al Departamento de Ventas")
             fventas.get(opcion)(False) if (opcion == "3") else fventas.get(opcion)()
 
@@ -23,7 +26,8 @@ def empleados():
     opcion = 0
     while opcion != "4":
 
-        print("1. Nuevo Empleado\n"
+        print("\n"
+              "1. Nuevo Empleado\n"
               "2. Eliminar Empleado\n"
               "3. Mostrar Empleados\n"
               "4. Atras")
@@ -39,7 +43,8 @@ def clientes():
     opcion = 0
     while opcion != "4":
 
-        print("1.- Nuevo Cliente\n"
+        print("\n"
+              "1.- Nuevo Cliente\n"
               "2.- Eliminar Cliente\n"
               "3.- Mostrar Clientes\n"
               "4.- Atras")
@@ -55,7 +60,8 @@ def compras():
     opcion = 0
     while opcion != "6":
 
-        print("1. Crear orden de compra\n"
+        print("\n"
+              "1. Crear orden de compra\n"
               "2. Anular orden de compra\n"
               "3. Crear proveedor\n"
               "4. Mostrar órdenes de compra\n"
@@ -73,7 +79,8 @@ def almacen():
     opcion = 0
     while opcion != "4":
 
-        print("1. Nuevo Producto\n"
+        print("\n"
+              "1. Nuevo Producto\n"
               "2. Eliminar Producto\n"
               "3. Mostrar Productos\n"
               "4. Atras")
@@ -86,32 +93,32 @@ def almacen():
 
 
 falmacen = {
-    "1": Funcion.nuevoProducto,
-    "2": Funcion.eliminaProducto,
-    "3": Funcion.muestraProductos
+    "1": Vista.creaProducto,
+    "2": Vista.eliminaProducto,
+    "3": Vista.muestraProductos
 }
 
 fclientes = {
-    "1": Funcion.nuevoCliente,
-    "2": Funcion.eliminaCliente,
-    "3": Funcion.muestraClientes
+    "1": Vista.creaCliente,
+    "2": Vista.eliminaCliente,
+    "3": Vista.muestraClientes
 }
 fempleados = {
-    "1": Funcion.nuevoEmpleado,
-    "2": Funcion.eliminaEmpleado,
-    "3": Funcion.muestraEmpleados
+    "1": Vista.creaEmpleado,
+    "2": Vista.eliminaEmpleado,
+    "3": Vista.muestraEmpleados
 }
 fcompras = {
-    "1": Funcion.nuevaOrden,
-    "2": Funcion.anularOrden,
-    "3": Funcion.creaProveeodor,
-    "4": Funcion.muestraOrdenesCompra,
-    "5": Funcion.imprimirOrdenDeCompra
+    "1": Vista.creaOrden,
+    "2": Vista.anularOrden,
+    "3": Vista.creaProveeodor,
+    "4": Vista.muestraOrdenesCompra,
+    "5": Vista.imprimirOrdenDeCompra
 }
 fventas = {
-    "1": Funcion.nuevaVenta,
-    "2": Funcion.anularVenta,
-    "3": Funcion.muestraVentas
+    "1": Vista.nuevaVenta,
+    "2": Vista.anularVenta,
+    "3": Vista.muestraVentas
 }
 funciones = {
     "1": compras,
@@ -120,6 +127,7 @@ funciones = {
     "4": clientes,
     "5": almacen
 }
+
 # //////////////////////////////////////////////////////////////////////////////////////
 # //////////////////////////////////// Login ///////////////////////////////////////////
 # //////////////////////////////////////////////////////////////////////////////////////
@@ -130,15 +138,21 @@ while nivelAcceso == "denegado":
     nombre = input("Usuario: ").strip()
     contrasinal = input("Contraseña: ").strip()
 
-    archivo = open("Usuarios.txt", "r")
-
     # ///////////////////////// Comprueba el nivel de acceso del usuario///////////////////
+    db = BBDD.conectaBD()
 
-    for linea in archivo.readlines():
-        login = linea.split(" ")
+    cursor = db.cursor()
 
-        if login[0] == nombre and login[1].split("\n")[0] == contrasinal:
-            nivelAcceso = login[2]
+    consulta = 'SELECT * FROM usuarios where nombre = "' + nombre + '" and pass = "' + contrasinal + '"'
+    # Ejecutar SQL --> es un string
+    cursor.execute(consulta)
+
+    # Recoger más de un dato con fetchall()
+    resultados = cursor.fetchone()
+
+    if resultados is not None:
+        nivelAcceso = resultados[2]  # el 2 corresponde con el campo 3 de la tabla de usuarios que es acceso
+
     # ////////////////////////////////////////////////////////////////////////////////////
 
     if nivelAcceso != "denegado":
@@ -158,13 +172,15 @@ while nivelAcceso == "denegado":
             # si es mas de 1 es que existe ese numero en el archivo y añade al diccionario de niveles
             # esa opcion del menu
             for i in opciones:
-                if nivelAcceso.count(str(i)) > 0: niveles[i] = opciones[i]
+                if nivelAcceso.count(str(i)) > 0:
+                    niveles[i] = opciones[i]
             # pinta el menu
+            print("\n------------ MENU PRINCIPAL------------")
             for nivel in niveles:
                 print(niveles[nivel])
 
             print('6.- Salir')
-
+            print("---------------------------------------")
             opcion = input("opcion: ")[0]
 
             # ////////////////////////////// Bloqueo de acceso denegado //////////////////////////////////////////////

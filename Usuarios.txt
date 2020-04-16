@@ -1,8 +1,0 @@
-santi 12345Abcde 14
-fulanito 12345Abcde 2
-menganito 12345Abcde 3
-zutanito 12345Abcde 4
-melanito 12345Abcde 5
-setanito 12345Abcde 6
-enanito 12345Abcde 1
-admin 12345Abcde 123456

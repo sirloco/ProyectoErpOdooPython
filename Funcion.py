@@ -1,395 +1,206 @@
 import Clase
 from datetime import datetime
-from reportlab.lib.pagesizes import A4
-from reportlab.pdfgen import canvas
-import os
-
-# lista de proveedores
-proveedores = []
-almacen = []
-clientes = []
-empleados = []
-ordenesCompra = []
-ordenesVenta = []
-
-
-# ////////////////////////////////////////////////////////////////////////////////////
-#                       MUESTRA LA LISTA DE PROVEEDORES
-# ////////////////////////////////////////////////////////////////////////////////////
-def muestraProveedor():
-    log("Se ha Mostrado la lista de proveedores")
-    repite = True if len(proveedores) > 0 else False
-    while repite:
-        i = 1
-        for pro in proveedores:
-            print(i, ": ", pro.getNombre())
-            i += 1
-
-        try:
-            return int(input("Elige un proveedor o inserta 0 para crear uno nuevo: ")) - 1
-        except:
-            repite = True
-
-
-# ////////////////////////////////////////////////////////////////////////////////////
-#                       MUESTRA LA LISTA DE PRODUCTOS
-# ////////////////////////////////////////////////////////////////////////////////////
-def muestraProductos(quiereUnoConcreto):
-    log("Se ha mostrardo la lista de productos")
-    repite = True if len(almacen) > 0 else False
-    while repite:
-        i = 1
-        for p in almacen:
-            print(i, ": ", p.getNombre())
-            i += 1
-
-        if quiereUnoConcreto:
-            try:
-                return int(input("Elige un producto o inserta 0 para crear uno nuevo: ")) - 1
-            except:
-                repite = True
-        else:
-            repite = False
-
-
-# ////////////////////////////////////////////////////////////////////////////////////
-#                       MUESTRA LA LISTA DE CLIENTES
-# ////////////////////////////////////////////////////////////////////////////////////
-def muestraClientes(quiereUnoConcreto):
-    log("Se ha mostrado la lista de clientes")
-    repite = True if len(clientes) > 0 else False
-    while repite:
-        i = 1
-        for c in clientes:
-            print(i, ": ", c.getNombre())
-            i += 1
-
-        if quiereUnoConcreto:
-            try:
-                return int(input("Elige un cliente o pon un n para crear uno nuevo: ")) - 1
-            except:
-                repite = True
-        else:
-            repite = False
-
-
-# ////////////////////////////////////////////////////////////////////////////////////
-#                       MUESTRA LA LISTA DE CLIENTES
-# ////////////////////////////////////////////////////////////////////////////////////
-def muestraEmpleados(quiereUnoConcreto):
-    log("Se ha mostrado la lista de empleados")
-    repite = True if len(empleados) > 0 else False
-    while repite:
-        i = 1
-        for e in empleados:
-            print(i, ": ", e.getNombre())
-            i += 1
-
-        if quiereUnoConcreto:
-            try:
-                return int(input("Elige un empleado o pon un n para crear uno nuevo: ")) - 1
-            except:
-                repite = True
-        else:
-            repite = False
-
-
-# ////////////////////////////////////////////////////////////////////////////////////
-#                       MUESTRA LA LISTA DE ORDENES DE VENTA
-# ////////////////////////////////////////////////////////////////////////////////////
-def muestraVentas(quiereUnaConcreta):
-    log("Se ha mostrado el listado de ordenes de venta")
-    repite = True if len(ordenesVenta) > 0 else False
-    while repite:
-        i = 1
-        for ov in ordenesVenta:
+import BBDD
 
-            for producto, cantidad in ov.getProductos().items():
-                print(producto.getNombre(), ": ", cantidad)
+# listas
+proveedores = {}
+almacen = {}
+clientes = {}
+empleados = {}
+ordenesCompra = {}
+ordenesVenta = {}
 
-            i += 1
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                            CREA VENTA NUEVA
+////////////////////////////////////////////////////////////////////////////////////
+"""
 
-        print("\n")
 
-        if quiereUnaConcreta:
-            try:
-                return int(input("Elige una orden: ")) - 1
-            except:
-                repite = True
-        else:
-            repite = False
+def nuevaOrdenVenta(cliente, productos):
+    dateTimeObj = datetime.now()
+    albaran = dateTimeObj.strftime(str(cliente.getId()) + "%d%m%Y%H%M%S")
+    ordenVenta = Clase.OrdenVenta(cliente, productos, albaran)
+    if BBDD.guardaOrdenVenta(ordenVenta):
+        montaOrdenesVenta()
+        log("Venta {0} Creada".format(albaran))
+        return ordenVenta
 
 
-# ////////////////////////////////////////////////////////////////////////////////////
-#                       MUESTRA LA LISTA DE ORDENES DE COMPRA
-# ////////////////////////////////////////////////////////////////////////////////////
-def muestraOrdenesCompra(quiereUnaConcreta):
-    log("Se ha mostrado el listado de ordenes de compra")
-    repite = True if len(ordenesCompra) > 0 else False
-    while repite:
-        i = 1
-        for oc in ordenesCompra:
-            print(i, ": Proveedor- >", oc.getProveedor().getNombre())
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                            CREA ORDEN COMPRA NUEVA
+////////////////////////////////////////////////////////////////////////////////////
+"""
 
-            for producto, cantidad in oc.getProductos().items():
-                print(producto.getNombre(), ": ", cantidad)
 
-            i += 1
+def nuevaOrdenCompra(proveedor, productos):
+    dateTimeObj = datetime.now()
+    albaran = dateTimeObj.strftime(str(proveedor.getId()) + "%d%m%Y%H%M%S")
+    ordenCompra = Clase.OrdenCompra(proveedor, productos, albaran)
 
-        print("\n")
+    if BBDD.guardaOrdenCompra(ordenCompra):
+        montaOrdenesCompra()
+        log("Orden de compra {0} Creada".format(albaran))
+        return ordenCompra
 
-        if quiereUnaConcreta:
-            try:
-                return int(input("Elige una orden: ")) - 1
-            except:
-                repite = True
-        else:
-            repite = False
 
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                            CREA PROVEEDOR NUEVO
+////////////////////////////////////////////////////////////////////////////////////
+"""
 
-# ////////////////////////////////////////////////////////////////////////////////////
-#                                  CREA ORDEN DE VENTA
-# ////////////////////////////////////////////////////////////////////////////////////
-def nuevaVenta():
-    errores = False
 
-    if not errores:
-        listaProductos = {}
+def nuevoProveeodor(nombre, direccion):
+    proveedor = Clase.Proveedor(nombre, direccion)
 
-        clienteElegido = muestraClientes(True)
+    if BBDD.guardaPersona(proveedor):
+        montaProveedores()
+        log("Proveedor {0} Creado".format(nombre))
+        return proveedor
 
-        if clienteElegido is None or clienteElegido < 0:
-            print("-Creando nuevo Cliente-")
-            nuevoCliente()
-            clienteElegido = len(clientes) - 1
 
-        repite = True
-        while repite:
-            productoElegido = muestraProductos(True)
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                            CREA EMPLEADO NUEVO
+////////////////////////////////////////////////////////////////////////////////////
+"""
 
-            if productoElegido is None or productoElegido < 0:
-                print("-Creando Nuevo Producto-")
-                nuevoProducto()
-                productoElegido = len(almacen) - 1
 
-            cantidad = input("cantidad: ").strip()
+def nuevoEmpleado(nombre, direccion):
+    empleado = Clase.Empleado(nombre, direccion)
 
-            listaProductos[almacen[productoElegido]] = cantidad
+    if BBDD.guardaPersona(empleado):
+        montaEmpleados()
+        log("Empleado {0} Creado".format(nombre))
+        return empleado
 
-            respuesta = input("¿Agregar otro producto? (s/n)").strip()
 
-            repite = False if respuesta == "n" else True
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                           CREA CLIENTE NUEVO
+////////////////////////////////////////////////////////////////////////////////////
+"""
 
-        ordenVenta = Clase.OrdenVenta(listaProductos)
-        ordenesVenta.append(ordenVenta)
-        print("Orden Creada!\n")
-        log("Se ha creado una orden de Venta")
-    else:
-        print(errores)
 
+def nuevoCliente(nombre, direccion):
+    cliente = Clase.Cliente(nombre, direccion)
 
-# ////////////////////////////////////////////////////////////////////////////////////
-#                                  CREA ORDEN DE COMPRA
-# ////////////////////////////////////////////////////////////////////////////////////
-def nuevaOrden():
-    errores = False
+    if BBDD.guardaPersona(cliente):
+        montaClientes()
+        log("Cliente {0} Creado".format(nombre))
+        return cliente
 
-    if not errores:
-        # Me interesa crear una lista de productos cada vez que se llame a esta funcion
-        listaProductos = {}
 
-        proveedorElegido = muestraProveedor()
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                           CREA PRODUCTO NUEVO
+////////////////////////////////////////////////////////////////////////////////////
+"""
 
-        if proveedorElegido is None or proveedorElegido < 0:
-            print("-Creando nuevo Proveedor-")
-            creaProveeodor()
-            proveedorElegido = len(proveedores) - 1
 
-        repite = True
-        while repite:
-            productoElegido = muestraProductos(True)
-
-            if productoElegido is None or productoElegido < 0:
-                print("-Creando Nuevo Producto-")
-                nuevoProducto()
-                productoElegido = len(almacen) - 1
-
-            cantidad = input("cantidad: ").strip()
-
-            listaProductos[almacen[productoElegido]] = cantidad
-
-            respuesta = input("¿Agregar otro producto? (s/n)").strip()
-
-            repite = False if respuesta == "n" else True
-
-        ordenCompra = Clase.OrdenCompra(proveedores[proveedorElegido], listaProductos)
-        ordenesCompra.append(ordenCompra)
-        print("Orden Creada!\n")
-        log("Se ha creado una orden de compra")
-        print("nueva orden de compra")
-    else:
-        print(errores)
-
-
-# ////////////////////////////////////////////////////////////////////////////////////
-#                            CREA PROVEEDOR NUEVO
-# ////////////////////////////////////////////////////////////////////////////////////
-def creaProveeodor():
-    errores = False
-    nombre = input("Nombre: ").strip()
-    direccion = input("Direccion: ").strip()
-
-    if nombre == "" or direccion == "": errores = "Error, campos obligatorios!"
-
-    if not errores:
-
-        proveedor = Clase.Persona(nombre, direccion)
-        proveedores.append(proveedor)
-        print("{0} Creado!\n".format(proveedor.getNombre()))
-        log("Proveedor {0} Creado".format(proveedor.getNombre()))
-
-    else:
-        print(errores)
-
-
-# ////////////////////////////////////////////////////////////////////////////////////
-#                            CREA EMPLEADO NUEVO
-# ////////////////////////////////////////////////////////////////////////////////////
-def nuevoEmpleado():
-    errores = False
-    nombre = input("Nombre: ").strip()
-    direccion = input("Direccion: ").strip()
-
-    if nombre == "" or direccion == "": errores = "Error, campos obligatorios!"
-
-    if not errores:
-
-        empleado = Clase.Persona(nombre, direccion)
-        empleados.append(empleado)
-        print("{0} Creado!\n".format(empleado.getNombre()))
-        log("Empleado {0} Creado".format(empleado.getNombre()))
-
-    else:
-        print(errores)
-
-
-# ////////////////////////////////////////////////////////////////////////////////////
-#                           CREA PRODUCTO NUEVO
-# ////////////////////////////////////////////////////////////////////////////////////
-def nuevoProducto():
-    errores = False
-    nombre = input("Nombre: ").strip()
-    precio = input("Precio: ").strip()
-
-    if nombre == "" or precio == "": errores = "Error, campos obligatorios!"
-
-    if not errores:
-
-        producto = Clase.Producto(nombre, precio)
-        almacen.append(producto)
-        print("{0} Creado!\n".format(producto.getNombre()))
+def nuevoProducto(nombre, precio, cantidad):
+    producto = Clase.Producto(nombre, precio, cantidad)
+
+    if BBDD.guardaProducto(producto):
+        montaProductos()
         log("Producto {0} Creado".format(producto.getNombre()))
-    else:
-        print(errores)
+        return producto
 
 
-# ////////////////////////////////////////////////////////////////////////////////////
-#                           CREA CLIENTE NUEVO
-# ////////////////////////////////////////////////////////////////////////////////////
-def nuevoCliente():
-    errores = False
-    nombre = input("Nombre: ").strip()
-    direccion = input("Direccion: ").strip()
-
-    if nombre == "" or direccion == "": errores = "Error, campos obligatorios!"
-
-    if not errores:
-        cliente = Clase.Producto(nombre, direccion)
-        clientes.append(cliente)
-        print("{0} Creado!\n".format(cliente.getNombre()))
-        log("Cliente {0} Creado".format(cliente.getNombre()))
-    else:
-        print(errores)
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                           ELIMINAR PRODUCTO
+////////////////////////////////////////////////////////////////////////////////////
+"""
 
 
-# ////////////////////////////////////////////////////////////////////////////////////
-#                           ELIMINAR PRODUCTO
-# ////////////////////////////////////////////////////////////////////////////////////
-def eliminaProducto():
-    eligeUno = True
-    productoElegido = muestraProductos(eligeUno)
+def quitaProducto(productoElegido):
+    resultado = BBDD.bajaProducto(productoElegido.getId())
 
-    if productoElegido is None:
-        print("Nada que borrar\n")
-    else:
-        product = almacen.pop(productoElegido).getNombre()
-        print(product + " Eliminado\n")
-        log("Producto " + product + " Eliminado")
+    if resultado:  # Elimina de la BD el producto y devuelve true
+        del almacen[productoElegido.getId()]  # Elimina del diccionario el producto tb
+        log(productoElegido.getNombre() + " Eliminado")
+
+    return resultado
 
 
-# ////////////////////////////////////////////////////////////////////////////////////
-#                           ELIMINAR CLIENTE
-# ////////////////////////////////////////////////////////////////////////////////////
-def eliminaCliente():
-    eligeUno = True
-    clienteElegido = muestraClientes(eligeUno)
-
-    if clienteElegido is None:
-        print("Nada que borrar\n")
-    else:
-        cli = clientes.pop(clienteElegido).getNombre()
-        print(cli + " Eliminado\n")
-        log("Cliente " + cli + " Eliminado")
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                           ELIMINAR CLIENTE
+ ////////////////////////////////////////////////////////////////////////////////////
+"""
 
 
-# ////////////////////////////////////////////////////////////////////////////////////
-#                           ELIMINAR EMPLEADO
-# ////////////////////////////////////////////////////////////////////////////////////
-def eliminaEmpleado():
-    eligeUno = True
-    empleadoElegido = muestraEmpleados(eligeUno)
+def quitaCliente(clienteElegido):
+    resultado = BBDD.bajaPersona(clienteElegido.getId())  # Elimina de la BD el cliente y devuelve true
 
-    if empleadoElegido is None:
-        print("Nada que borrar\n")
-    else:
-        empl = clientes.pop(empleadoElegido).getNombre()
-        print(empl + " Eliminado\n")
-        log("Empleado " + empl + " Eliminado")
+    if resultado:
+        del clientes[clienteElegido.getId()]  # Elimina de la lista el cliente tb
+        log("Cliente " + clienteElegido.getNombre() + " Eliminado")
+
+    return resultado
 
 
-# ////////////////////////////////////////////////////////////////////////////////////
-#                           ELIMINAR ORDEN DE COMPRA
-# ////////////////////////////////////////////////////////////////////////////////////
-def anularOrden():
-    eligeUno = True
-    ordenElegida = muestraOrdenesCompra(eligeUno)
-
-    if ordenElegida is None:
-        print("Nada que borrar\n")
-    else:
-        ordenesCompra.pop(ordenElegida)
-        print("Eliminada!\n")
-        log("Anulada orden de compra")
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                           ELIMINAR EMPLEADO
+////////////////////////////////////////////////////////////////////////////////////
+"""
 
 
-# ////////////////////////////////////////////////////////////////////////////////////
-#                           ELIMINAR ORDEN DE COMPRA
-# ////////////////////////////////////////////////////////////////////////////////////
-def anularVenta():
-    eligeUno = True
-    ordenElegida = muestraVentas(eligeUno)
+def quitaEmpleado(empleadoElegido):
+    resultado = BBDD.bajaPersona(empleadoElegido.getId())  # Elimina de la BD el empleado y devuelve true
 
-    if ordenElegida is None:
-        print("Nada que borrar\n")
-    else:
-        ordenesVenta.pop(ordenElegida)
-        print("Eliminada!\n")
-        log("Anulada orden de venta")
+    if resultado:
+        del empleados[empleadoElegido.getId()]  # Elimina de la lista el empleado tb
+        log("Empleado " + empleadoElegido.getNombre() + " Eliminado")
+
+    return resultado
 
 
-# ////////////////////////////////////////////////////////////////////////////////////
-#                           REGISTRO DE LOG
-# ////////////////////////////////////////////////////////////////////////////////////
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                           ELIMINAR ORDEN COMPRA
+////////////////////////////////////////////////////////////////////////////////////
+"""
+
+
+def quitaOrdenCompra(ordenElegida):
+    resultado = BBDD.bajaOrdenCompra(ordenElegida.getAlbaran())  # Elimina de la BD la orden de compra y devuelve true
+
+    if resultado:
+        del ordenesCompra[ordenElegida.getId()]  # Elimina de la lista la compra tb
+        log("Albaran: " + ordenElegida.getAlbaran() + " Eliminado")
+
+    return resultado
+
+
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                           ELIMINAR ORDEN VENTA
+////////////////////////////////////////////////////////////////////////////////////
+"""
+
+
+def quitaOrdenVenta(ordenElegida):
+    resultado = BBDD.bajaOrdenVenta(ordenElegida.getAlbaran())  # Elimina de la BD la venta y devuelve true
+
+    if resultado:
+        del ordenesVenta[ordenElegida.getId()]  # Elimina de la lista la venta tb
+        log("Albaran: " + ordenElegida.getAlbaran() + " Eliminado")
+
+    return resultado
+
+
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                           REGISTRO DE LOG
+////////////////////////////////////////////////////////////////////////////////////
+"""
+
+
 def log(reg):
     archivo = open("log.txt", "a")
 
@@ -400,22 +211,173 @@ def log(reg):
 
     archivo.close()
 
-# ////////////////////////////////////////////////////////////////////////////////////
-#                       MUESTRA LA LISTA DE ORDENES DE COMPRA
-# ////////////////////////////////////////////////////////////////////////////////////
-def imprimirOrdenDeCompra():
-    ordenElegida = muestraOrdenesCompra(True)
-    w, h = A4
-    c = canvas.Canvas("Orden_de_Compra.pdf")
-    # Rectángulo.
-    c.drawString(50, h - 50, ordenesCompra[ordenElegida].getProveedor().getNombre())
-    columna = 75
-    linea = 65
 
-    for producto, cantidad in ordenesCompra[ordenElegida].getProductos().items():
-        c.drawString(columna, h - linea, producto.getNombre() + ": " + cantidad)
-        linea += 25
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                 CREA OBJETOS DE TIPO EMPLEADO CON LA LISTA RECIBIDA
+////////////////////////////////////////////////////////////////////////////////////
+"""
 
-    c.showPage()
-    c.save()
-    print("Documento Impreso revisa la carpeta del proyecto")
+
+def montaEmpleados():
+    listaEmpleados = BBDD.listadoPersonas(BBDD.EMPLEADO)
+    empleados.clear()
+    if listaEmpleados:
+        for emp in listaEmpleados:
+            empleado = Clase.Empleado(emp[1], emp[2])
+            empleado.setId(emp[0])
+            empleados[emp[0]] = empleado
+
+        log("Se ha mostrado la lista de empleados")
+
+    return empleados
+
+
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                       CREA OBJETOS DE TIPO CLIENTES CON LA LISTA RECIBIDA
+////////////////////////////////////////////////////////////////////////////////////
+"""
+
+
+def montaClientes():
+    listaClientes = BBDD.listadoPersonas(BBDD.CLIENTE)
+    clientes.clear()
+    if listaClientes:
+        for cli in listaClientes:
+            cliente = Clase.Cliente(cli[1], cli[2])
+            cliente.setId(cli[0])
+            clientes[cli[0]] = cliente
+
+        log("Se ha mostrado la lista de clientes")
+
+    return clientes
+
+
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                    CREA OBJETOS DE TIPO PROVEEDOR CON LA LISTA RECIBIDA
+////////////////////////////////////////////////////////////////////////////////////
+"""
+
+
+def montaProveedores():
+    listaProveedores = BBDD.listadoPersonas(BBDD.PROVEEDOR)
+    proveedores.clear()
+    if listaProveedores:
+        for pro in listaProveedores:
+            proveedor = Clase.Proveedor(pro[1], pro[2])
+            proveedor.setId(pro[0])
+            proveedores[pro[0]] = proveedor
+
+        log("Se ha mostrado la lista de Proveedores")
+
+    return proveedores
+
+
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                    CREA OBJETOS DE TIPO PRODUCTO CON LA LISTA RECIBIDA
+////////////////////////////////////////////////////////////////////////////////////
+"""
+
+
+def montaProductos():
+    listaProductos = BBDD.listadoProductos()
+    almacen.clear()
+    if listaProductos:
+        for pro in listaProductos:
+            producto = Clase.Producto(pro[1], pro[2], pro[3])  # el 1 y el 2 son las columnas de nombre y direccion
+            producto.setId(pro[0])
+            producto.setVisibilidad(pro[4])
+            almacen[pro[0]] = producto
+
+        log("Se ha mostrardo la lista de productos")
+
+    return almacen
+
+
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                    CREA OBJETOS DE TIPO ORDEN COMPRA CON LA LISTA RECIBIDA
+////////////////////////////////////////////////////////////////////////////////////
+"""
+
+
+def montaOrdenesCompra():
+    listaProductosAlbaran = []
+    listaOrdenesCompra = BBDD.listadoOrdenesCompra()
+    montaProductos()
+    montaProveedores()
+    ordenesCompra.clear()
+    if listaOrdenesCompra:
+
+        albaran = 0
+        proveedor = 0
+        linea = 0
+
+        for oc in listaOrdenesCompra:  # Recorre todas las filas de la tabla odenes compra
+
+            # si no coincide el albaran con el anterior y no es la primera linea  o si es el ultimo crea orden de compra
+            if albaran != oc[1] and linea > 0 or linea == len(listaOrdenesCompra) - 1:
+                if linea == len(listaOrdenesCompra) - 1:
+                    listaProductosAlbaran.append(almacen[oc[3]])  # se añade el producto a la lista
+                # si ha cambiado de compra  se crea la compra
+                lista = listaProductosAlbaran.copy()  # se hace una copia porque si no al borrar borra la referencia
+                ordenCompra = Clase.OrdenCompra(proveedores[proveedor], lista, albaran)
+                ordenCompra.setId(oc[0])
+                ordenesCompra[oc[0]] = ordenCompra  # se guarda en la lista de ordenes de compra con su id
+                listaProductosAlbaran.clear()  # se vacia la lista de productos para la siguiente compra
+
+            listaProductosAlbaran.append(almacen[oc[3]])  # se añade el producto a la lista
+            albaran = oc[1]  # se asigna nuevo id del albaran
+            proveedor = oc[2]  # se asigna nuevo proveedor
+            linea += 1
+
+        log("Se ha creado una lista nueva de compras")
+
+        return ordenesCompra
+
+
+"""
+////////////////////////////////////////////////////////////////////////////////////
+                    CREA OBJETOS DE TIPO ORDEN VENTA CON LA LISTA RECIBIDA
+////////////////////////////////////////////////////////////////////////////////////
+"""
+
+
+def montaOrdenesVenta():
+    listaProductosAlbaran = []
+    listaOrdenesVenta = BBDD.listadoOrdenesVenta()
+    montaProductos()
+    montaClientes()
+    ordenesVenta.clear()
+    if listaOrdenesVenta:
+
+        albaran = 0
+        cliente = 0
+        linea = 0
+
+        for oc in listaOrdenesVenta:  # Recorre todas las filas de la tabla odenes compra
+
+            # si no coincide el albaran con el anterior y no es la primera linea  o si es el ultimo crea orden de venta
+            if albaran != oc[1] and linea > 0 or linea == len(listaOrdenesVenta) - 1:
+                if linea == len(listaOrdenesVenta) - 1:
+                    listaProductosAlbaran.append(almacen[oc[3]])  # se añade el producto a la lista
+                    cliente = oc[2]
+                    albaran = oc[1]
+                # si ha cambiado de venta  se crea la compra
+                lista = listaProductosAlbaran.copy()  # se hace una copia porque si no al borrar borra la referencia
+                ordenVenta = Clase.OrdenVenta(clientes[cliente], lista, albaran)
+                ordenVenta.setId(oc[0])
+                ordenesVenta[oc[0]] = ordenVenta  # se guarda en la lista de ordenes de venta con su id
+                listaProductosAlbaran.clear()  # se vacia la lista de productos para la siguiente compra
+
+            listaProductosAlbaran.append(almacen[oc[3]])  # se añade el producto a la lista
+            albaran = oc[1]  # se asigna nuevo id del albaran
+            cliente = oc[2]  # se asigna nuevo proveedor
+            linea += 1
+
+        log("Se ha creado una lista nueva de ventas")
+
+        return ordenesVenta
